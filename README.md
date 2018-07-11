@@ -1,4 +1,4 @@
-## Short Bio
+### Short Bio
 I am currently working as an assistant professor in School of Global Entrepreneurship and Information Communication Technology (GE&ICT) at [Handong Global University (HGU)](http://www.handong.edu/eng/) in Pohang, South Korea. I started my academic career in Industiral Design in 2002 at HGU, then studied in Industrial Engineering (especially in Human Factors and Ergonomics) at Pohang University of Science and Technology (POSTECH). After I recieved my doctorate in 2013, I worked as a post-doctoral research staff for total of 4.5 years at POSTECH (1.5Y) and Industrial Design Engineering at Delft University of Technology in the Netherlands (3Y).
 
 With my interdisciplinary perspectives in design, engineering, and technologies, I’ve broadly studied on industrial design and ergonomics topics including new product development, user-centered design, UI/UX design, HCI, service development, sustainable design, biomechanics, digital ergonomics, medical/healthcare engineering, and system development. Over the years, through my active participation in more than 45 research projects, I've gained academic achievements including 30+ peer-reviewed journal papers, 80+ converence proceedings, 6 patents, 2 goverment research grants, 3 academic awards, and so on.
@@ -6,7 +6,7 @@ With my interdisciplinary perspectives in design, engineering, and technologies,
 My major research area that I've actively worked for the last decade is digital human modeling and engineering design methods using 3D/4D scans. My current research and teaching in HGU cover a broad range of Human Factors and Ergonomics, Human-Computer Interaction, and Human-Centered Product/Service Development. 
 
 
-## Education & Professional Career
+### Education & Professional Career
 - Assistant Professor, School of Global Entrepreneurship and Information Communication Technology, Handong Global University, South Korea, Mar 2018 - present
 - Owner, Humanopia, the Netherlands, Jan 2017 - Feb 2018
 - Post-doctoral researcher, Industrial Design Engineering, Delft University of Technology, the Netherlands, Jan 2015 - Feb 2018
@@ -14,7 +14,8 @@ My major research area that I've actively worked for the last decade is digital 
 - Ph.D., Industrial Engineering, Pohang University of Science and Technology, South Korea, Aug 2013
 - B.S., Industrial Design, Handong Global University, South Korea, Feb 2006
 
-## Research Interests
+
+### Research Interests
 - Ergonomic Engineering/Design
   - Human-centered product/service/system design and development
   - Medical and healthcare device/system development
@@ -32,7 +33,7 @@ My major research area that I've actively worked for the last decade is digital 
   - Medical image analysis and surgery simulation
 - Engineering Education Methods
 
-## Courses Taought
+### Courses Taought
 - Human Factors and Ergonomics
 - Emotional and Cognitive Engineering
 - Product Planning and Development
@@ -40,7 +41,7 @@ My major research area that I've actively worked for the last decade is digital 
 - Data Visualization
 - Introduction to ICT Engineering
 
-## Selected Publications
+### Selected Publications
 1. Yang, X., Tjolleng, A., **Lee, W.**, Park, S., Lee, B., Jeong, J., Kim, J., Hong, W., You, H., and Park, S. (under review) Analysis of natural finger-press motion for ergonomic button design of a trackball.
 1. Choi, Y., Yang, X., Park, J., Lee, J., **Lee, W.**, and You, H. (under review) Effects of smartphone size and hand size on grip posture in one-handed hard key operation.
 1. Goto, L., **Lee, W.**, Molenbroek, J.F.M., Cabo, A., and Goossens, R.H.M. (under review) 3D anthropometric data set of the head and face of Dutch children.
@@ -63,6 +64,6 @@ My major research area that I've actively worked for the last decade is digital 
 1. Jung, K., Park, J., **Lee, W.**, Kang, B., Uem, J., Park, S., and You, H. (2010). Development of a quantitative ergonomic assessment method for helicopter cockpit design in a digital environment. *Journal of the Ergonomics Society of Korea, 29*(2), 203-210.
 1. **Lee, W.**, Park, J., Kim, S., Yoon, S., Yang, X., Lee, Y., Son, J., Kim, M., and You, H. (2010). Development of an analysis system for biosignal and driving performance measurements. *Journal of the Ergonomics Society of Korea, 29*(1), 47-53.
 
-## Professional Affiliations
+### Professional Affiliations
 
-## Services
+### Services
