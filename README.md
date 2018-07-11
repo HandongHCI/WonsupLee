@@ -3,7 +3,7 @@ I am currently working as an assistant professor in School of Global Entrepreneu
 
 With my interdisciplinary perspectives in design, engineering, and technologies, I’ve broadly studied on industrial design and ergonomics topics including new product development, user-centered design, UI/UX design, HCI, service development, sustainable design, biomechanics, digital ergonomics, medical/healthcare engineering, and system development. Over the years, through my active participation in more than 45 research projects, I've gained academic achievements including 30+ peer-reviewed journal papers, 80+ converence proceedings, 6 patents, 2 goverment research grants, 3 academic awards, and so on.
 
-My major research area that I've actively worked for the last decade is digital human modeling and engineering design methods using 3D/4D scans. My current research and teaching in HGU cover a broad range of Human Factors and Ergonomics, Human-Computer Interaction, and Human-Centered Product/Service Development. 
+As shown in the publication list below, my major research area that I've actively worked for the last decade is digital human modeling and engineering design methods using 3D/4D scans. My current research and teaching in HGU cover a broad range of Human Factors and Ergonomics, Human-Computer Interaction, and Human-Centered Product/Service Development.
 
 
 ### Education & Professional Career
