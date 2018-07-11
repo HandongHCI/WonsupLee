@@ -67,3 +67,15 @@ As shown in the publication list below, my major research area that I've activel
 ### Professional Affiliations
 
 ### Services
+
+### Other links
+- Personal Pages
+  - LinkedIn: https://www.linkedin.com/in/wonsuplee/
+- Educational Pages
+  - Github: https://github.com/HandongHCI
+  - Facebook Page: http://facebook.com/HandongHCI
+- Publication Records
+  - ORCID: https://orcid.org/0000-0002-8094-1251
+  - Google Scholar: https://scholar.google.co.kr/citations?user=KAVL3vQAAAAJ&hl=en
+  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=55582098000
+  - ResearchGate: https://www.researchgate.net/profile/Wonsup_Lee
