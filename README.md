@@ -48,20 +48,20 @@ As shown in the publication list below, my major research area that I've activel
 
 ### Other links
 - Personal Pages
-  - LinkedIn: https://www.linkedin.com/in/wonsuplee/
+  - LinkedIn: [https://www.linkedin.com/in/wonsuplee/](https://www.linkedin.com/in/wonsuplee/)
 - Educational Pages
-  - Github: https://github.com/HandongHCI
-  - Facebook Page: http://facebook.com/HandongHCI
+  - Github: [https://github.com/HandongHCI](https://github.com/HandongHCI)
+  - Facebook Page: [http://facebook.com/HandongHCI](http://facebook.com/HandongHCI)
 - Publication Records
-  - ORCID: https://orcid.org/0000-0002-8094-1251
-  - Google Scholar: https://scholar.google.co.kr/citations?user=KAVL3vQAAAAJ&hl=en
-  - Scopus: https://www.scopus.com/authid/detail.uri?authorId=55582098000
-  - ResearchGate: https://www.researchgate.net/profile/Wonsup_Lee
+  - ORCID: [https://orcid.org/0000-0002-8094-1251](https://orcid.org/0000-0002-8094-1251)
+  - Google Scholar: [https://scholar.google.co.kr/citations?user=KAVL3vQAAAAJ&hl=en](https://scholar.google.co.kr/citations?user=KAVL3vQAAAAJ&hl=en)
+  - Scopus: [https://www.scopus.com/authid/detail.uri?authorId=55582098000](https://www.scopus.com/authid/detail.uri?authorId=55582098000)
+  - ResearchGate: [https://www.researchgate.net/profile/Wonsup_Lee](https://www.researchgate.net/profile/Wonsup_Lee)
 
 <br>
 <img src="img/intro01.jpg" height="100">
-<img src="img/intro02.png" height="100">
-<img src="img/intro03.png" height="100">
-<img src="img/intro04.png" height="100">
-<img src="img/intro05.png" height="100">
-<img src="img/intro06.png" height="100">
+<img src="img/intro02.jpg" height="100">
+<img src="img/intro03.jpg" height="100">
+<img src="img/intro04.jpg" height="100">
+<img src="img/intro05.jpg" height="100">
+<img src="img/intro06.jpg" height="100">
