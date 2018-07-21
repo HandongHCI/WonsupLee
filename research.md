@@ -4,3 +4,9 @@
 ### Research Areas
 
 #### 3D/4D Anthropometry
+
+#### Digital Human Modeling
+
+#### Human-Centered Product Development
+
+#### Human-Computer Interaction

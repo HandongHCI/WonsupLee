@@ -65,3 +65,4 @@ As shown in the publication list below, my major research area that I've activel
 <img src="img/intro04.jpg" height="100">
 <img src="img/intro05.jpg" height="100">
 <img src="img/intro06.jpg" height="100">
+<img src="img/intro07.png" height="100">
