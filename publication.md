@@ -31,21 +31,32 @@
 	<img src="img/publication/2017_3D_SAMP_01.jpg" height="150">
 	<img src="img/publication/2017_3D_SAMP_02.png" height="150">
 
-1. Chang, J., Jung, K., **Lee, W.**, and You, H. (2017). Development of a usability evaluation method using natural product-use motion. *Applied Ergonomics, 60*, 171-182. (DOI: [10.1016/j.apergo.2016.11.015](https://doi.org/10.1016/j.apergo.2016.11.015))
+1. Chang, J., Jung, K., **Lee, W.**, and You, H. (2017). Development of a usability evaluation method using natural product-use motion. *Applied Ergonomics, 60*, 171-182. (DOI: [10.1016/j.apergo.2016.11.015](https://doi.org/10.1016/j.apergo.2016.11.015))<br>
+	<img src="img/publication/2017_NaturalMotion_01.jpg" height="150">
+	<img src="img/publication/2017_NaturalMotion_02.jpg" height="150">
 
 1. Meijer, B., Wolff, J., van Eijnatten, M., **Lee, W.**, and Forouzanfar, T. (2017). Three-dimensional assessment of morphological changes of the face following bilateral sagittal split osteotomy. *International Journal of Oral and Maxillofacial Surgery, 46*(Suppl. 1), 164.
 
 1. Tjolleng, A., Jung, K., Hong, W., **Lee, W.**, Lee, B., You, H., Son, J., and Park, S. (2017). Classification of a driver’s cognitive workload levels using artificial neural network on ECG signals. *Applied Ergonomics, 59*, 326-332. (DOI: [10.1016/j.apergo.2016.09.013](https://doi.org/10.1016/j.apergo.2016.09.013))
 
-1. **Lee, W.**, Yang, X., Jung, H., You, H., Goto, L., Molenbroek, J.F.M., and Goossens, R.H.M. (2016). Application of massive 3D head and facial scan datasets in ergonomic head-product design. *International Journal of the Digital Human, 1*(4), 344-360. (DOI: [10.1504/IJDH.2016.084592](https://www.inderscienceonline.com/doi/abs/10.1504/IJDH.2016.084592))
+1. **Lee, W.**, Yang, X., Jung, H., You, H., Goto, L., Molenbroek, J.F.M., and Goossens, R.H.M. (2016). Application of massive 3D head and facial scan datasets in ergonomic head-product design. *International Journal of the Digital Human, 1*(4), 344-360. (DOI: [10.1504/IJDH.2016.084592](https://www.inderscienceonline.com/doi/abs/10.1504/IJDH.2016.084592))<br>
+<img src="img/publication/2016_Massive3DScans_01.png" height="150">
+<img src="img/publication/2016_Massive3DScans_02.png" height="150">
 
-1. Yang, X., Yu, H., Choi, Y., **Lee, W.**, Wang, B., Yang, J., Hwang, H., Kim, J., Song, J., Cho, B., and You, H. (2014). A hybrid semi-automatic method for liver segmentation based on level-set methods using multiple seed points. *Computer Methods and Programs in Biomedicine, 113*, 69-79. (DOI: [10.1016/j.cmpb.2013.08.019](https://doi.org/10.1016/j.cmpb.2013.08.019))
+1. Yang, X., Yu, H., Choi, Y., **Lee, W.**, Wang, B., Yang, J., Hwang, H., Kim, J., Song, J., Cho, B., and You, H. (2014). A hybrid semi-automatic method for liver segmentation based on level-set methods using multiple seed points. *Computer Methods and Programs in Biomedicine, 113*, 69-79. (DOI: [10.1016/j.cmpb.2013.08.019](https://doi.org/10.1016/j.cmpb.2013.08.019))<br>
+<img src="img/publication/2014_DrLiver_01.jpg" height="150">
+<img src="img/publication/2014_DrLiver_02.jpg" height="150">
 
 1. Hong, W., **Lee, W.**, Jung, K., Lee, B., Park, J., Park, S., Park, Y., Son, J., Park, S., and You, H. (2014). Development of an ECG-based assessment method for a driver’s cognitive workload. *Journal of the Korean Institute of Industrial Engineers, 40*(3), 325-332.
 
-1. **Lee, W.**, Jeong, J., Park, J., Jeon, E., Kim, H., Jung, D., Park, S., and You, H. (2013). Analysis of the facial anthropometric data of Korean pilots for oxygen mask design. *Ergonomics, 56*(9), 1451-1464. (DOI: [10.1080/00140139.2013.816376](https://doi.org/10.1080/00140139.2013.816376))
+1. **Lee, W.**, Jeong, J., Park, J., Jeon, E., Kim, H., Jung, D., Park, S., and You, H. (2013). Analysis of the facial anthropometric data of Korean pilots for oxygen mask design. *Ergonomics, 56*(9), 1451-1464. (DOI: [10.1080/00140139.2013.816376](https://doi.org/10.1080/00140139.2013.816376))<br>
+<img src="img/publication/2013_FaceAnthro_01.jpg" height="150">
+<img src="img/publication/2013_FaceAnthro_02.png" height="150">
+<img src="img/publication/2013_FaceAnthro_03.png" height="150">
 
-1. **Lee, W.**, Jung, K., Jeong, J., Park, J., Cho, J., Kim, H., Park, S., and You, H. (2013). An anthropometric analysis of Korean male helicopter pilots for helicopter cockpit design. *Ergonomics, 56*(6), 879-887. (DOI: [10.1080/00140139.2013.776703](https://doi.org/10.1080/00140139.2013.776703))
+1. **Lee, W.**, Jung, K., Jeong, J., Park, J., Cho, J., Kim, H., Park, S., and You, H. (2013). An anthropometric analysis of Korean male helicopter pilots for helicopter cockpit design. *Ergonomics, 56*(6), 879-887. (DOI: [10.1080/00140139.2013.776703](https://doi.org/10.1080/00140139.2013.776703))<br>
+<img src="img/publication/2013_BodyAnthro_01.jpg" height="150">
+<img src="img/publication/2013_BodyAnthro_02.png" height="150">
 
 1. Jung, K., Kim, J., You, T., Lee, B., **Lee, W.**, Park, S., Roh, W., and You, H. (2012). A characteristic analysis of ergonomic console layout studies using optimization techniques. *Journal of the Ergonomics Society of Korea, 31*(6), 733-740.
 
