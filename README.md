@@ -1,9 +1,6 @@
-##### menu
-- [Home](README.md)
-- [Research](research.md)
-- [Publication](publication.md)
+[Home](README.md) | [Research](research.md) | [Publication](publication.md)
 
-<br><br><br>
+<br>
 ### Short Bio
 I am currently working as an assistant professor in School of Global Entrepreneurship and Information Communication Technology (GE&ICT) at Handong Global University (HGU) in Pohang, South Korea. I started my academic career in Industiral Design in 2002 at HGU, then studied in Industrial Engineering (especially in Human Factors and Ergonomics) at Pohang University of Science and Technology (POSTECH). After I recieved my doctorate in 2013, I worked as a post-doctoral research staff for total of 4.5 years at POSTECH (1.5Y) and Industrial Design Engineering at Delft University of Technology in the Netherlands (3Y).
 
@@ -61,9 +58,10 @@ As shown in the publication list below, my major research area that I've activel
   - Scopus: https://www.scopus.com/authid/detail.uri?authorId=55582098000
   - ResearchGate: https://www.researchgate.net/profile/Wonsup_Lee
 
-  <img src="img/intro01.jpg" height="100">
-  <img src="img/intro02.jpg" height="100">
-  <img src="img/intro03.jpg" height="100">
-  <img src="img/intro04.jpg" height="100">
-  <img src="img/intro05.jpg" height="100">
-  <img src="img/intro06.jpg" height="100">
+<br>
+<img src="img/intro01.jpg" height="100">
+<img src="img/intro02.png" height="100">
+<img src="img/intro03.png" height="100">
+<img src="img/intro04.png" height="100">
+<img src="img/intro05.png" height="100">
+<img src="img/intro06.png" height="100">
