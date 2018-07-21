@@ -6,7 +6,7 @@
 #### Ergonomic oxygen mask for Korean Air Force pilots (will be commercialized soon)
 - Research period: Nov. 2010 ~ Oct. 2012
 - Funding source: Republic of Korea Air Force Logistics Command
-- Summary: The existing pilot oxygen mask (model: MBU-20/P, Gentex Corporation, Simpson, PA, USA) designed based on the facial size and shape of U.S. Air Force pilots does not fit well to the face of Korean pilots due to different anthropometric characteristics between two groups. This study proposed a revised oxygen mask design for Korean Air Force pilots using 3D facial scan images of 350 Korean pilots through a virtual fit analysis and design optimization methods proposed by this study. Then, prototypes of the designed oxygen mask design were tested with Korean pilots; and they showed better fit to Korean pilots’ faces compared to the existing mask. As my PhD study, I entirely coordinated whole process of this project.
+- Summary: The existing pilot oxygen mask (model: MBU-20/P, Gentex Corporation, Simpson, PA, USA) designed based on the facial size and shape of U.S. Air Force pilots does not fit well to the face of Korean pilots due to different anthropometric characteristics between two groups. This study proposed a revised oxygen mask design for Korean Air Force pilots using 3D facial scan images of 350 Korean pilots through a virtual fit analysis and design optimization methods proposed by this study. Then, prototypes of the designed oxygen mask design were tested with Korean pilots; and they showed better fit to Korean pilots’ faces compared to the existing mask. As my PhD study, I entirely coordinated whole process of this project.<br>
 <img src="img/DHM_OM_01.jpg" height="150">
 <img src="img/DHM_OM_02.jpg" height="150">
 <img src="img/DHM_OM_03.jpg" height="150">
@@ -18,7 +18,7 @@
 #### Cockpit design of Korean Army utility helicopter, Surion (commercialized in 2013)
 - Research period: Nov. 2006 – Oct. 2008
 - Funding source: Korea Aerospace Industries (KAI), Ltd.
-- Summary: The interior size and occupational layout of the helicopter cockpit was designed in this project through anthropometric analysis of Korean Army personnel, virtual ergonomic simulation, and usability evaluation of a real-size prototype. I participated in anthropometric analysis, CAD handling, and virtual simulation works in this project. Ergonomic criteria such as posture comfort, reachability, visibility, and seating adjustability of the cockpit design were virtually assessed using Jack, a virtual human model simulation software, with three representative models (size: 5%ile, 50%ile, 95%ile) of Korean Army personnel. This project was a part of the 7-year national project for development of the first Korean-made helicopter, granted by Korean government. The developed helicopter was commercialized in 2013.
+- Summary: The interior size and occupational layout of the helicopter cockpit was designed in this project through anthropometric analysis of Korean Army personnel, virtual ergonomic simulation, and usability evaluation of a real-size prototype. I participated in anthropometric analysis, CAD handling, and virtual simulation works in this project. Ergonomic criteria such as posture comfort, reachability, visibility, and seating adjustability of the cockpit design were virtually assessed using Jack, a virtual human model simulation software, with three representative models (size: 5%ile, 50%ile, 95%ile) of Korean Army personnel. This project was a part of the 7-year national project for development of the first Korean-made helicopter, granted by Korean government. The developed helicopter was commercialized in 2013.<br>
 <img src="img/PD_Surion1.png" height="150">
 <img src="img/PD_Surion2.png" height="150">
 <img src="img/PD_Surion3.png" height="150">
@@ -30,7 +30,7 @@
 - Project period: Dec. 2008 ~ Mar. 2015
 - Funding source: Chonbuk National University Hospital
 - Summary: Dr. Liver is a surgery planning system specialized for the liver. Dr. Liver helps surgeons to quickly get 3D reconstructed images of the liver and internal vessel structures as well as tumors from CT scan images of a patient. Also, Dr. Liver provides accurate volume information of total liver, tumors, and partial liver area which will be incised. A user-friendly designed interface supports surgeons to get those results with an easy manner. System’s features, functions, interfaces, and interaction methods were developed based on demands of surgeons. I had occasionally co-worked with other researchers on medical image analysis algorithm (language: C++, Matlab), user interface programming (language: Qt), commercialization, and application for medical certifications during several years. This study was a part of a national medical research project granted by Korean government. Dr. Liver was commercialized in 2012. 
-- Product information: [http://edt.postech.ac.kr/www_humanopia/products_dr_liver.php](http://edt.postech.ac.kr/www_humanopia/products_dr_liver.php)
+- Product information: [http://edt.postech.ac.kr/www_humanopia/products_dr_liver.php](http://edt.postech.ac.kr/www_humanopia/products_dr_liver.php)<br>
 <img src="img/PD_DrLiver.png" height="150">
 
 #### Ergonomic/eco-friendly home appliance designs
