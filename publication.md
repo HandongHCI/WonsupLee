@@ -1,7 +1,6 @@
 [Home](README.md) | [Research](research.md) | [Publication](publication.md)
 
-<br>
-### Selected Publications
+## Selected Publications
 1. Yang, X., Tjolleng, A., **Lee, W.**, Park, S., Lee, B., Jeong, J., Kim, J., Hong, W., You, H., and Park, S. (under review) Analysis of natural finger-press motion for ergonomic button design of a trackball.
 
 1. Choi, Y., Yang, X., Park, J., Lee, J., **Lee, W.**, and You, H. (under review) Effects of smartphone size and hand size on grip posture in one-handed hard key operation.

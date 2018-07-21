@@ -1,6 +1,5 @@
 [Home](README.md) | [Research](research.md) | [Publication](publication.md)
 
-<br>
 ## Research Cases
 
 ### Ergonomic oxygen mask for Korean Air Force pilots (will be commercialized soon)
