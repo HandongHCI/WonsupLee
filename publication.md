@@ -6,16 +6,19 @@
 1. Choi, Y., Yang, X., Park, J., Lee, J., **Lee, W.**, and You, H. (under review) Effects of smartphone size and hand size on grip posture in one-handed hard key operation.
 1. Goto, L., **Lee, W.**, Molenbroek, J.F.M., Cabo, A., and Goossens, R.H.M. (under review) 3D anthropometric data set of the head and face of Dutch children.
 1. Lee, B., Yang, X., Jung, K., **Lee, W.**, and You, H. (under review) Development of a distributed representative human model generation and analysis system (DRHM-GAS): Application to optimization of a flight suit sizing system.
-1. **Lee, W.**, Yang, X., Jung, H., Bok, I., Kim, C., Kwon, O., and You, H. (2018) Anthropometric analysis of 3D ear scans of Koreans and Caucasians for ear product design. *Ergonomics*. advance online publication. (DOI: [10.1080/00140139.2018.1493150](https://doi.org/10.1080/00140139.2018.1493150))
-	<img src="img/publication/pub_2018_ear_01.jpg" height="150">
-	<img src="img/publication/pub_2018_ear_02.jpg" height="150">
+1. **Lee, W.**, Yang, X., Jung, H., Bok, I., Kim, C., Kwon, O., and You, H. (2018) Anthropometric analysis of 3D ear scans of Koreans and Caucasians for ear product design. *Ergonomics*. advance online publication. (DOI: [10.1080/00140139.2018.1493150](https://doi.org/10.1080/00140139.2018.1493150))<br>
+	<img src="img/publication/2018_ear_01.jpg" height="150">
+	<img src="img/publication/2018_ear_02.jpg" height="150">
 1. Jung, K., Kim, J., **Lee, W.**, You, T., Lee, B., Jung, J., Kim, K., Hong, W., Choi, W., Park, S., Chang, S., and You, H. (2018). Development of an ergonomic console layout optimization method using priority-based branch-and-bound algorithm and clustering analysis. *Journal of the Ergonomics Society of Korea, 44*(3), 189-197.
-1. **Lee, W.**, Lee, B., Yang, X., Jung, H., Bok, I., Kim, C., Kwon, O., and You, H. (2018). A 3D anthropometric sizing analysis system based on North American CAESAR 3D scan data for design of head wearable products. *Computer and Industrial Engineering, 117*, 121-130. (DOI: [10.1016/j.cie.2018.01.023](https://doi.org/10.1016/j.cie.2018.01.023))
+1. **Lee, W.**, Lee, B., Yang, X., Jung, H., Bok, I., Kim, C., Kwon, O., and You, H. (2018). A 3D anthropometric sizing analysis system based on North American CAESAR 3D scan data for design of head wearable products. *Computer and Industrial Engineering, 117*, 121-130. (DOI: [10.1016/j.cie.2018.01.023](https://doi.org/10.1016/j.cie.2018.01.023))<br>
+	<img src="img/publication/2018_3DASAS_01.png" height="150">
+	<img src="img/publication/2018_3DASAS_02.png" height="150">
+	<img src="img/publication/2018_3DASAS_03.png" height="150">
+1. **Lee, W.**, Yang, X., Jung, D., Park, S., Kim, H., and You, H. (2018). Ergonomic evaluation of pilot oxygen mask designs. *Applied Ergonomics, 67*, 133-141. (DOI: [10.1016/j.apergo.2017.10.003](https://doi.org/10.1016/j.apergo.2017.10.003))<br>
 	<img src="img/publication/2018_MaskDesign_01.png" height="150">
 	<img src="img/publication/2018_MaskDesign_02.jpg" height="150">
 	<img src="img/publication/2018_MaskDesign_03.jpg" height="150">
 	<img src="img/publication/2018_MaskDesign_04.png" height="150">
-1. **Lee, W.**, Yang, X., Jung, D., Park, S., Kim, H., and You, H. (2018). Ergonomic evaluation of pilot oxygen mask designs. *Applied Ergonomics, 67*, 133-141. (DOI: [10.1016/j.apergo.2017.10.003](https://doi.org/10.1016/j.apergo.2017.10.003))
 1. **Lee, W.**, Yang, X., Yoon, S., Lee, B., Jeon, E., Kim, H., and You, H. (2017). Comparison of a semiautomatic protocol using plastering and three-dimensional scanning techniques with the direct measurement protocol for hand anthropometry. *Human Factors and Ergonomics in Manufacturing & Service Industries, 27*(3), 138-146. (DOI: [10.1002/hfm.20697](https://doi.org/10.1002/hfm.20697))
 1. Chang, J., Jung, K., **Lee, W.**, and You, H. (2017). Development of a usability evaluation method using natural product-use motion. *Applied Ergonomics, 60*, 171-182. (DOI: [10.1016/j.apergo.2016.11.015](https://doi.org/10.1016/j.apergo.2016.11.015))
 1. Meijer, B., Wolff, J., van Eijnatten, M., **Lee, W.**, and Forouzanfar, T. (2017). Three-dimensional assessment of morphological changes of the face following bilateral sagittal split osteotomy. *International Journal of Oral and Maxillofacial Surgery, 46*(Suppl. 1), 164.
