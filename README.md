@@ -58,4 +58,22 @@ As shown in the publication list below, my major research area that I've activel
   - ResearchGate: [https://www.researchgate.net/profile/Wonsup_Lee](https://www.researchgate.net/profile/Wonsup_Lee)
 
 <br>
-<img src="img/intro01.jpg" height="100"><img src="img/intro02.jpg" height="100"><img src="img/intro03.jpg" height="100"><img src="img/intro04.jpg" height="100"><img src="img/intro09.jpg" height="100"><img src="img/intro15.jpg" height="100"><img src="img/intro16.jpg" height="100"><img src="img/intro10.jpg" height="100"><img src="img/intro05.jpg" height="100"><img src="img/intro06.jpg" height="100"><img src="img/intro11.png" height="100"><img src="img/intro12.png" height="100"><img src="img/intro07.png" height="100"><img src="img/intro17.png" height="100"><img src="img/intro08.png" height="100"><img src="img/intro13.png" height="100"><img src="img/intro14.png" height="100"><img src="img/intro18.png" height="100"><img src="img/intro19.png" height="100">
+<img src="img/intro01.jpg" height="100">
+<img src="img/intro02.jpg" height="100">
+<img src="img/intro03.jpg" height="100">
+<img src="img/intro04.jpg" height="100">
+<img src="img/intro09.jpg" height="100">
+<img src="img/intro15.jpg" height="100">
+<img src="img/intro16.jpg" height="100">
+<img src="img/intro10.jpg" height="100">
+<img src="img/intro05.jpg" height="100">
+<img src="img/intro06.jpg" height="100">
+<img src="img/intro11.png" height="100">
+<img src="img/intro12.png" height="100">
+<img src="img/intro07.png" height="100">
+<img src="img/intro17.png" height="100">
+<img src="img/intro08.png" height="100">
+<img src="img/intro13.png" height="100">
+<img src="img/intro14.png" height="100">
+<img src="img/intro18.png" height="100">
+<img src="img/intro19.png" height="100">
