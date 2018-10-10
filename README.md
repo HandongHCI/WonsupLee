@@ -33,7 +33,7 @@ As shown in the publication list below, my major research area that I've activel
   - Medical image analysis and surgery simulation
 - Engineering Education Methods
 
-## Courses Taought
+## Courses Taught
 - Human Factors and Ergonomics
 - Emotional and Cognitive Engineering
 - Product Planning and Development
