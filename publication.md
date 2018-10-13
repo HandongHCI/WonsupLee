@@ -1,4 +1,4 @@
-[Home](README.md) | [Research](research.md) | [Publication](publication.md)
+[Home](README.md) | [Research](research.md) | [Publication](publication.md) | [Facility](facility.md) | [Data](data.md)
 
 ## Selected Publications
 1. Yang, X., Tjolleng, A., **Lee, W.**, Park, S., Lee, B., Jeong, J., Kim, J., Hong, W., You, H., and Park, S. (under review) Analysis of natural finger-press motion for ergonomic button design of a trackball.
