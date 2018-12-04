@@ -2,7 +2,7 @@
 
 ## Selected Publications
 
-1.	Goto, L., **Lee, W.**, Molenbroek, J.F.M., and Goossens, R.H.M. (under review) A comparison between representative 3D faces of children for mask design.
+1.	Goto, L., Huysmans, T., **Lee, W.**, Molenbroek, J.F.M., and Goossens, R.H.M. (under review) A comparison between representative 3D faces of children for mask design.
 
 1.	Goto, L., **Lee, W.**, Molenbroek, J.F.M., and Goossens, R.H.M. (under review) The variation in 3D face shapes of Dutch children for design applications.
 
