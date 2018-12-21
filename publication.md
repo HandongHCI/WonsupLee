@@ -1,6 +1,6 @@
 [Home](README.md) | [Research](research.md) | [Publication](publication.md) | [Facility](facility.md) | [Data](data.md)
 
-## Selected Publications
+## Featured Publications (selected)
 
 1.	Goto, L., Huysmans, T., **Lee, W.**, Molenbroek, J.F.M., and Goossens, R.H.M. (under review) A comparison between representative 3D faces of children for mask design.
 
