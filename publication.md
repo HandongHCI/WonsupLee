@@ -12,7 +12,7 @@
 
 1. Lee, B., Yang, X., Jung, K., **Lee, W.**, and You, H. (under review) Development of a distributed representative human model generation and analysis system (DRHM-GAS): Application to optimization of a flight suit sizing system.
 
-1. Yang, X., Tjolleng, A., **Lee, W.**, Park, S., Lee, B., Jeong, J., Kim, J., Hong, W., You, H., and Park, S. (accepted) Analysis of natural finger-press motion for ergonomic button design of a trackball.
+1. Yang, X., Tjolleng, A., **Lee, W.**, Park, S., Lee, B., Jeong, J., Kim, J., Hong, W., You, H., and Park, S. (in press) Analysis of natural finger-press motion for ergonomic button design of a trackball. *Ergonomics* (DOI: [10.1080/00140139.2019.1587006](https://doi.org/10.1080/00140139.2019.1587006))
 
 1. **Lee, W.**, Yang, X., Jung, H., Bok, I., Kim, C., Kwon, O., and You, H. (in press) Anthropometric analysis of 3D ear scans of Koreans and Caucasians for ear product design. *Ergonomics*. advance online publication. (DOI: [10.1080/00140139.2018.1493150](https://doi.org/10.1080/00140139.2018.1493150))<br><img src="img/publication/2018_ear_01.jpg" height="100"><img src="img/publication/2018_ear_02.jpg" height="100">
 
