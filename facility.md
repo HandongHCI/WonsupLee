@@ -3,51 +3,48 @@
 ## Facility
 
 ### 3D Image Capturing
-- Artec Leo (3)
-- Artec Space Spider (1)
-- 3D Systems Sense scanner (1)
-- Kinect V2 sensors (10)
+- Artec Leo
+- Artec Space Spider
+- 3D Systems Sense scanner
+- Kinect V2 sensors
 - ZEN depth sensor
 - Structure Sensor for iPad
-- 3D Systems iSense scanner for iPad (30)
-- 3D Systems Touch & Touch X (12)
+- Intel RealSense
+- 3D Systems Touch & Touch X
 
 ### 3D Image Processing (Software)
-- Geomagic DesignX (1 license)
-- Geomagic FreeForm (12 licenses)
-- Artec Studio Professional 12 (30 copies)
+- Geomagic DesignX
+- Geomagic FreeForm
+- Artec Studio Professional 13
 - Agisoft Photoscan Pro
-- GOM Inspect (Free SW)
-- MeshLab (Free SW)
-- MeshMixer (Free SW)
 - Rhino 3D
+- GOM Inspect (Freeware)
+- MeshLab (Freeware)
+- MeshMixer (Freeware)
 
 ### Ergonomics
-- Motion Capture (12 camera units)
+- OptiTrack Motive Motion Capture (12 camera units)
 - Biopack bio-signal measurement
 - Noraxon mini-DTS for EMG
-- Polar RS400 ECG watch (10)
+- Polar RS400 ECG watch
 - Tobii Pro Glasses 2
 - Tobii VR
-- Tobii Pro Lab SW for analysis
-- Neurosky MindWave mobile 2 (20)
+- Tobii Pro Lab SW
+- Neurosky MindWave mobile 2 & Research Toolkit
 - Anthropometer
 
 ### ICT Equipment
-- Humanoid Robot, NAO (2)
-- Leap Motion (30)
-- Galaxy Note 5 (??)
-- Galaxy S7 (??)
-- Yoga Tab 8” (??)
-- iPad ??
-- DJI Tello (30)
-- (more drones)
-- Occulus VR (2)
-- Gear VR (20)
-- HTC Vive (2)
-- Microsoft Holo Lens (2)
+- Humanoid Robot, NAO
+- Leap Motion
+- DJI Tello, Matrice 200, Matrice 600
+- Occulus VR
+- Gear VR
+- HTC Vive
+- Samsung Odyssey
+- Microsoft Holo Lens
 - Samsung Gear 360 camera
-- Xbox One (20)
+- DJI Osmo 2
+- Smartphones/Tablets
 
 ### Prototyping
 - Maker Space
@@ -55,10 +52,10 @@
 - 3D Printer: 
 - 3D Printer: 
 - Laser Cutter
-- 3D Pens (20)
-- Arduino sets (30)
-- Raspberry Pi sets (30)
+- 3D Pens
+- Arduino sets
+- Raspberry Pi sets
 - Sensor kits
-- LCD modules 7” & 10.1” (50)
-- Little Bits - Workshop Sets (3)
-- Mindstorms EV3 Education Core Set (20)
+- LCD modules 7” & 10.1”
+- Mindstorms EV3 Education Core Set
+- Little Bits - Workshop Sets
