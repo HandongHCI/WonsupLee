@@ -1,4 +1,4 @@
-[Home](README.md) | [Research](research.md) | [Publication](publication.md) | [Facility](facility.md) | [Data](data.md)
+[Home](README.md) | [Research](research.md) | [Publication](publication.md) | [Facility](facility.md) | [Data](data.md) | [Teaching](teaching.md) | [HandongHCI](https://handonghci.github.io)
 
 ## Short Bio
 I am currently working in ergonomics and human-computer interaction (HCI) domains as an assistant professor in School of Global Entrepreneurship and Information Communication Technology (GE&ICT) at Handong Global University (HGU) in Pohang, South Korea. I started my academic career in Industrial Design in 2002 at HGU, then studied in Industrial Engineering (specialized in Human Factors and Ergonomics) at Pohang University of Science and Technology (POSTECH). After I received my doctorate in 2013, I worked as a post-doctoral research staff for a total of 4.5 years at POSTECH (1.5Y) and Industrial Design Engineering at Delft University of Technology in the Netherlands (3Y).
