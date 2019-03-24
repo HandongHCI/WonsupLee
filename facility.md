@@ -36,30 +36,29 @@
 ### ICT Equipment
 - Humanoid Robot, NAO (2)
 - Leap Motion (30)
-- Galaxy S7 (20)
-- Galaxy Note 5 (10)
-- Lenovo Yoga Tab 3, 8" (30)
-- iPad 5, 9.7" (20)
+- Galaxy Note 5 (??)
+- Galaxy S7 (??)
+- Yoga Tab 8” (??)
+- iPad ??
 - DJI Tello (30)
 - (more drones)
 - Occulus VR (2)
+- Gear VR (20)
 - HTC Vive (2)
-- Samsung Odyssey VR (1)
-- Samsung Gear VR (20)
 - Microsoft Holo Lens (2)
-- Samsung Gear 360 camera (2)
-- Fitbit Blaze - smart fitness watch
-- Xbox One with Kinect Sensor
-- Neuromeka Indy 5 - robot arm
+- Samsung Gear 360 camera
+- Xbox One (20)
 
-### ICT Prototyping
-- 3D Printer: Moment 2
-- 3D Printer: Moment
-- 3D Printer: 3DWOX 2X
+### Prototyping
+- Maker Space
+- 3D Printer: 
+- 3D Printer: 
+- 3D Printer: 
 - Laser Cutter
-- Arduino sets
-- Raspberry Pi sets
+- 3D Pens (20)
+- Arduino sets (30)
+- Raspberry Pi sets (30)
 - Sensor kits
-- LCD modules 7" & 10.1"
-- Little Bits
-- Mindstorms EV3 Education Core Set
+- LCD modules 7” & 10.1” (50)
+- Little Bits - Workshop Sets (3)
+- Mindstorms EV3 Education Core Set (20)
