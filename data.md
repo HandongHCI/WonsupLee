@@ -1,4 +1,4 @@
-[Home](README.md) | [Research](research.md) | [Publication](publication.md) | [Facility](facility.md) | [Data](data.md)
+[Home](README.md) | [Research](research.md) | [Publication](publication.md) | [Facility](facility.md) | [Data](data.md) | [Teaching](teaching.md) | [HandongHci](http://github.com/HandongHCI)
 
 ## Anthropometric Resources
 - Size Korea
