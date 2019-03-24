@@ -2,7 +2,7 @@
 
 ## Facility
 
-### 3D Image Capturing
+### 3D Image Capturing & Displaying
 - Artec Leo
 - Artec Space Spider
 - 3D Systems Sense scanner
@@ -11,6 +11,7 @@
 - Structure Sensor for iPad
 - Intel RealSense
 - 3D Systems Touch & Touch X
+- LookingGlass
 
 ### 3D Image Processing (Software)
 - Geomagic DesignX
@@ -33,10 +34,10 @@
 - Neurosky MindWave mobile 2 & Research Toolkit
 - Anthropometer
 
-### ICT Equipment
+### ICT Engineering
 - Humanoid Robot, NAO
+- DJI Tello, DIJ Tello Edu, Matrice 200, Matrice 600
 - Leap Motion
-- DJI Tello, Matrice 200, Matrice 600
 - Occulus VR
 - Gear VR
 - HTC Vive
@@ -44,18 +45,12 @@
 - Microsoft Holo Lens
 - Samsung Gear 360 camera
 - DJI Osmo 2
-- Smartphones/Tablets
 
 ### Prototyping
 - Maker Space
-- 3D Printer: 
-- 3D Printer: 
-- 3D Printer: 
+- 3D Printers: Moment, 3DWOX 3X, SLASH+, Ultimaker S5
 - Laser Cutter
 - 3D Pens
-- Arduino sets
-- Raspberry Pi sets
-- Sensor kits
-- LCD modules 7” & 10.1”
+- Arduino & Raspberry Pi sets, small LCD displays, and sensor kits
 - Mindstorms EV3 Education Core Set
 - Little Bits - Workshop Sets
