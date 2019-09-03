@@ -2,7 +2,7 @@
 
 ## Facility for HCI and Ergonomics Research (including both personal and department's properties)
 
-### 3D Image Capturing & Displaying
+### 2D/3D/4D Image Capturing & Displaying
 - Artec Leo
 - Artec Space Spider
 - 3D Systems Sense scanner
@@ -20,9 +20,11 @@
 - Artec Studio Professional 13
 - Agisoft Photoscan Pro
 - Rhino 3D
-- GOM Inspect (Freeware)
-- MeshLab (Freeware)
-- MeshMixer (Freeware)
+- Alternative Freeware
+	- GOM Inspect
+	- MeshLab
+	- MeshMixer
+	- R3DS Wrap (free for educational institutue)
 
 ### Ergonomics
 - OptiTrack Motive Motion Capture (12 camera units)
@@ -36,7 +38,7 @@
 - Anthropometer
 
 ### ICT Engineering
-- Humanoid Robot, NAO
+- Softbank NAO, Humanoid Robot
 - DJI Tello, DIJ Tello Edu, Matrice 200, Matrice 600
 - Leap Motion
 - Occulus VR
@@ -44,14 +46,13 @@
 - HTC Vive
 - Samsung Odyssey
 - Microsoft Holo Lens
-- Samsung Gear 360 camera
-- DJI Osmo 2
+- Magic Leap
+- Insta 360 Pro 2
 
 ### Prototyping
-- Maker Space
-- 3D Printers: Moment, 3DWOX 3X, SLASH+, Ultimaker S5
-- Laser Cutter
+- 3D Printers: Ultimaker S5, SLASH+, Moment, 3DWOX 3X
+- Trotech Laser Cutter
 - 3D Pens
-- Arduino & Raspberry Pi sets, small LCD displays, and sensor kits
-- Mindstorms EV3 Education Core Set
 - Little Bits - Workshop Sets
+- Mindstorms EV3 Education Core Set
+- Arduino & Raspberry Pi with LCD displays and sensor kits
