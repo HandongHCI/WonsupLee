@@ -8,6 +8,8 @@
 
 1. Choi Y, Yang X, Park J, Lee J, **Lee W**, and You H (under review). Effects of smartphone size and hand size on grip posture in one-handed hard key operation.
 
+1.	**Lee, W.**, Molenbroek, J.F.M., Goto, L., Jellema, A.H., Song, Y., and Goossens, R.H.M. (2019). Application of 3D scanning in design education. In S. Scataglini and G. Paul (Eds.), *DHM and Posturography* (pp. 721-732). Cambridge, MA: Academic Press (imprint of Elsevier). (ISBN: 978-0-12-816713-7).
+
 1. Goto, L., **Lee, W.**, Molenbroek, J.F.M., Cabo, A., and Goossens, R.H.M. (2019). Traditional and 3D scan extracted measurements of the head and faces of Dutch children. *International Journal of Industrial Ergonomics, 73*, art. no. 102828. (DOI: [10.1016/j.ergon.2019.102828](https://doi.org/10.1016/j.ergon.2019.102828))
 
 1. Lee B, **Lee W**, Yang X, Jung K, and You H (2019). Development of a distributed representative human model generation and analysis system (DRHM-GAS): Application to optimization of a flight suit sizing system. *International Journal of Industrial Ergonomics, 72*, 261-272. (DOI: [10.1016/j.ergon.2019.06.005](https://doi.org/10.1016/j.ergon.2019.06.005))<br><img src="img/publication/2019_DRHM_GAS.png" height="100">
