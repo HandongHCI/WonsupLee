@@ -1,6 +1,6 @@
 [Home](README.md) | [Research](research.md) | [Publication](publication.md) | [Facility](facility.md) | [Data](data.md) | [Teaching](teaching.md) | [HandongHCI](https://handonghci.github.io){:target="_blank" rel="noopener"}
 
-## Facility
+## Facility for HCI and Ergonomics Research (including both personal and department's properties)
 
 ### 3D Image Capturing & Displaying
 - Artec Leo
@@ -8,6 +8,7 @@
 - 3D Systems Sense scanner
 - Kinect V2 sensors
 - ZEN depth sensor
+- Amazon Deep Lens
 - Structure Sensor for iPad
 - Intel RealSense
 - 3D Systems Touch & Touch X
