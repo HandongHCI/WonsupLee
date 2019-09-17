@@ -1,4 +1,4 @@
-[Home](README.md) | [Research](research.md) | [Publication](publication.md) | [Facility](facility.md) | [Teaching](teaching.md){:target="_blank" rel="noopener"}
+[Home](README.md) | [Research](research.md) | [Publication](publication.md) | [Facility](facility.md) | [Teaching](https://handonghci.github.io/Courses/){:target="_blank" rel="noopener"}
 
 
 ## Facility for HCI and Ergonomics Research (including both personal and department's properties)
@@ -57,3 +57,16 @@
 - Little Bits - Workshop Sets
 - Mindstorms EV3 Education Core Set
 - Arduino & Raspberry Pi with LCD displays and sensor kits
+
+
+
+## 3D Human Scan Data
+- Full body
+    - Size Korea
+    - CAESAR North American
+- Head
+    - 2,299 CAESAR North American: cleansed & template-registered & with 43 landmarks
+- Face
+    - 336 Korean Air Force pilots
+- Ear with ear canal
+    - 230 Korean & 96 Caucasian ears
