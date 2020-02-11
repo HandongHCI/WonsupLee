@@ -3,10 +3,6 @@
 
 ## Featured Publications (selected)
 
-1. Goto L, Huysmans T, **Lee W**, Molenbroek JFM, and Goossens RHM (under review). A comparison between representative 3D faces of children for mask design.
-
-1. Goto L, **Lee W**, Molenbroek JFM, and Goossens RHM (under review). The variation in 3D face shapes of Dutch children for design applications.
-
 1. Choi Y, Yang X, Park J, Lee J, **Lee W**, and You H (under review). Effects of smartphone size and hand size on grip posture in one-handed hard key operation.
 
 1.	**Lee, W.**, Molenbroek, J.F.M., Goto, L., Jellema, A.H., Song, Y., and Goossens, R.H.M. (2019). Application of 3D scanning in design education. In S. Scataglini and G. Paul (Eds.), *DHM and Posturography* (pp. 721-732). Cambridge, MA: Academic Press (imprint of Elsevier). (ISBN: 978-0-12-816713-7).

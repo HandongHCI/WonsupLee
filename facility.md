@@ -9,7 +9,7 @@
 - 3D Systems Sense scanner
 - Kinect V2 sensors
 - ZEN depth sensor
-- Amazon Deep Lens
+- Amazon DeepLens
 - Structure Sensor for iPad
 - Intel RealSense
 - 3D Systems Touch & Touch X
@@ -39,8 +39,8 @@
 - Anthropometer
 
 ### ICT Engineering
-- Softbank NAO, Humanoid Robot
-- DJI Tello, DIJ Tello Edu, Matrice 200, Matrice 600
+- Softbank NAO, a Humanoid Robot
+- DJI Tello, DIJ Tello Edu, Matrice 100, Matrice 210
 - Leap Motion
 - Occulus VR
 - Gear VR

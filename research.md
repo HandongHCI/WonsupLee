@@ -1,9 +1,17 @@
 [Home](README.md) | [Research](research.md) | [Publication](publication.md) | [Facility](facility.md) | [Teaching](https://handonghci.github.io/Courses/){:target="_blank" rel="noopener"}
 
 
-## Research Cases
+## Onging Research Topics
 
-### Ergonomic oxygen mask for Korean Air Force pilots (will be commercialized soon)
+1. Development of a web-based anthropometric analysis system
+2. Development of a smart learning system
+3. Development of an AI-based digital human model based on 3D body scan database
+4. Application of drones
+
+
+## Earlier Research Projects
+
+### Ergonomic oxygen mask for Korean Air Force pilots
 - Research period: Nov. 2010 ~ Oct. 2012
 - Funding source: Republic of Korea Air Force Logistics Command
 - Summary: The existing pilot oxygen mask (model: MBU-20/P, Gentex Corporation, Simpson, PA, USA) designed based on the facial size and shape of U.S. Air Force pilots does not fit well to the face of Korean pilots due to different anthropometric characteristics between two groups. This study proposed a revised oxygen mask design for Korean Air Force pilots using 3D facial scan images of 350 Korean pilots through a virtual fit analysis and design optimization methods proposed by this study. Then, prototypes of the designed oxygen mask design were tested with Korean pilots; and they showed better fit to Korean pilots’ faces compared to the existing mask. As my PhD study, I entirely coordinated whole process of this project.
@@ -38,6 +46,6 @@
 ![](img/research/vehicle.png)
 
 ### Software programs for anthropometric analysis
-- Funding sources: Samsung Electronics, Logitech International S.A., Delft University of Technology
+- Funding sources: Samsung Electronics, Logitech International S.A., Delft University of Technology, National Research Foundation of Korea
 - Summary: I have participated in software development projects, which are for designers, industry practitioners, and/or university students. The core purpose of software development in my research is to provide a good usability to users, so that they can easily access to and analyze a numerous size of database (e.g., anthropometric database of 4400 people) for their research and design. Out of more than 10 custom software programs I have developed, the following figure is illustrating a layout, interface, and features of some of the anthropometric analysis tools. The anthropometric analysis tools basically consist of the following functions: (1) selection of target sample by choosing ethnicity, gender, and age characteristics, (2) selection of anthropometric dimension, (3) selection of analysis methods, (4) visualization of outputs such as summary statistics, anthropometric information, sizing categories, 3D scatter plot of anthropometric landmarks, and representative shapes, and (5) reporting the analysis outcomes. Majorly, Matlab language was used for algorithm development as well as user interface design. A user-centered design knowledge and a survey of user’s needs have been always applied in user interface design. Some of developed software were delivered to each of the funding company and some will be commercialized sooner or later.
 ![](img/research/SW.png)
