@@ -40,17 +40,22 @@ Among the experiences as mentioned above, my primary research area that I've act
 - Product Planning and Development
 - Human-Computer Interaction
 - Data Visualization
+- Ideation and Prototyping
 - Introduction to ICT Engineering
 
-## Professional Affiliations
-
 ## Services
+- Board Member, Ergonomics Society of Korea, Jan. 2020 - Present
+- Reviewer, [Human Factors and Ergonomics in Manufacturing & Service Industries](https://www.onlinelibrary.wiley.com/journal/15206564), 2018 - Present
+- Reviewer, [Applied Ergonomics](https://www.journals.elsevier.com/applied-ergonomics), 2018 - Present
+- Reviewer, [Journal of the Ergonomics Society of Korea](http://www.jesk.or.kr/), 2018 - Present
+- Reviewer, [Journal of the Korean Society of Safety](http://www.kosos.or.kr/jkosos/), 2018 - Present
 
 ## Other links
 - Personal Pages
   - LinkedIn: [https://www.linkedin.com/in/wonsuplee/](https://www.linkedin.com/in/wonsuplee/)
 - Educational Pages
-  - Github: [https://github.com/HandongHCI](https://github.com/HandongHCI)
+  - GitHub: [https://github.com/HandongHCI](https://github.com/HandongHCI)
+  - GitHub Page: [https://HandongHCI.github.io](https://github.com/HandongHCI)
   - Facebook Page: [http://facebook.com/HandongHCI](http://facebook.com/HandongHCI)
 - Publication Records
   - ORCID: [https://orcid.org/0000-0002-8094-1251](https://orcid.org/0000-0002-8094-1251)

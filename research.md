@@ -3,10 +3,11 @@
 
 ## Onging Research Topics
 
+1. Development of a product design technology based on finite element analysis
+1. Development of an AI-assisted digital human model based on 3D body scan database
 1. Development of a web-based anthropometric analysis system
-2. Development of a smart learning system
-3. Development of an AI-based digital human model based on 3D body scan database
-4. Application of drones
+1. Development of a smart learning system
+1. Applications of drones
 
 
 ## Earlier Research Projects
