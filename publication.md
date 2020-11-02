@@ -3,9 +3,9 @@
 
 ## Featured Publications (selected)
 
-1.	**Lee W**, Jung H, and You H (in press) Development of a 3D template-registered image database of Korean heads for ergonomic product design. *Journal of the Ergonomics Society of Korea*.<br><img src="img/publication/2020_TemplateRegistration.png" height="100">
+1.	**Lee W**, Jung H, and You H (in press) Development of a 3D template-registered image database of Korean heads for ergonomic product design. *Journal of the Ergonomics Society of Korea*.<br><img src="img/publication/2020_HeadTemplateRegistration.png" height="100">
 
-1. **Lee W**, Jung H, and You H (2020) Application of 3D human body template model for ergonomic product design. *Journal of the Ergonomics Society of Korea, 39*(3), 223-241. (DOI: [10.5143/JESK.2020.39.3.223](http://www.jesk.or.kr/archive/detail/192?is_paper=y))<br><img src="img/publication/2020_HeadTemplateRegistration.png" height="100">
+1. **Lee W**, Jung H, and You H (2020) Application of 3D human body template model for ergonomic product design. *Journal of the Ergonomics Society of Korea, 39*(3), 223-241. (DOI: [10.5143/JESK.2020.39.3.223](http://www.jesk.or.kr/archive/detail/192?is_paper=y))<br><img src="img/publication/2020_TemplateRegistration.png" height="100">
 
 1.	**Lee W**, Kim JG, Molenbroek JFM, Goossens RHM, and You H (2019) Estimation of facial contact pressure based on finite element analysis. *Advances in Intelligent Systems and Computing, 975*, 657-667. In Proceedings of the 10th International Conference on Applied Human Factors and Ergonomics (AHFE). (Washington, DC, USA, July 24 – 28, 2019) (DOI: [10.1007/978-3-030-20216-3_61](https://link.springer.com/chapter/10.1007/978-3-030-20216-3_61))<br><img src="img/publication/2019_FEA_01.png" height="100"><img src="img/publication/2019_FEA_02.png" height="100">
 
