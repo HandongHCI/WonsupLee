@@ -2,11 +2,11 @@
 
 
 ## Short Bio
-I am currently working in ergonomics and human-computer interaction (HCI) domains as an assistant professor in School of Global Entrepreneurship and Information Communication Technology (GE&ICT) at Handong Global University (HGU) in Pohang, South Korea. I started my academic career in Industrial Design in 2002 at HGU, then studied in Industrial Engineering (specialized in Human Factors and Ergonomics) at Pohang University of Science and Technology (POSTECH). After I received my doctorate in 2013, I worked as a post-doctoral research staff for a total of 4.5 years at POSTECH (1.5Y) and Industrial Design Engineering at Delft University of Technology in the Netherlands (3Y).
+I am currently working in ergonomics, human-computer interaction (HCI), ICT convergence, and innovative product/service development domains as an assistant professor in the School of Global Entrepreneurship and Information Communication Technology (GE&ICT) at Handong Global University (HGU) in Pohang, South Korea. I started my academic career in Industrial Design in 2002 at HGU, then studied in Industrial Engineering (specialized in Human Factors and Ergonomics) at Pohang University of Science and Technology (POSTECH). After I received my doctorate in 2013, I worked as post-doctoral research staff for a total of 4.5 years at POSTECH (1.5Y) and Industrial Design Engineering at the Delft University of Technology in the Netherlands (3Y).
 
-With my interdisciplinary perspectives in design, engineering, and technologies, I’ve broadly studied on design and ergonomics topics including new product development, user-centered design, UI/UX design, HCI, service development, sustainable design, biomechanics, digital ergonomics, medical/healthcare engineering, and software development. Over the years, through my active participation in more than 45 research projects, I've gained academic achievements including 30+ peer-reviewed journal papers, 80+ conference proceedings, 6 patents, 2 government research grants as a PI, 3 academic awards, and so on.
+With my interdisciplinary perspectives in design, engineering, technologies, and business, my teaching covers broad topics including new product/service development, business startup, user-centered design, UI/UX design, HCI, biomechanics, digital ergonomics, medical/healthcare engineering, and software development. Over the years, through my active participation in research and education works, I've gained academic achievements including 30+ peer-reviewed journal papers, 80+ conference proceedings, 6 patents, 10+ research grants as a PI, 3 academic awards, and so on.
 
-Among the experiences as mentioned above, my primary research area that I've actively worked for the last decade is digital human modeling and engineering design methods using 3D/4D body scans. My current research and teaching in HGU cover a broad range of Human Factors and Ergonomics, Human-Computer Interaction, and Human-Centered Product/Service Development.
+Among the experiences mentioned above, the primary research area that I've most actively worked for the last decade is digital human modeling based on using 3D/4D body scans and engineering design methods for human-friendly products.
 
 ## Education & Professional Career
 - Assistant Professor, School of Global Entrepreneurship and Information Communication Technology, Handong Global University, South Korea, Mar 2018 - present
@@ -19,36 +19,39 @@ Among the experiences as mentioned above, my primary research area that I've act
 ## Research Interests
 - Ergonomic Engineering/Design
   - Human-centered product/service/system design and development
-  - Medical and healthcare device/system development
-  - User-friendly sports/safety/military equipment design
+  - Medical and healthcare design
+  - Engineering design methods and technologies
+  - Usability & UI/UX Design and evaluation
   - Universal design for children, seniors, and people with disabilities
   - Appropriate technology and humanitarian design
-  - Human performance & workload assessment
-  - Usability & UX evaluation
-  - Innovative design methods and technologies
 - Digital Ergonomics
   - Digital human modeling
   - 3D/4D scanning and processing
   - Anthropometric sizing and shape analysis
-  - Virtual fit/pressure simulation and design optimization
-  - Medical image analysis and surgery simulation
+  - Virtual fit simulation and design optimization
 - Engineering Education Methods
+- Lean Startup and Agile Development
 
 ## Courses Taught
-- Human Factors and Ergonomics
-- Emotional and Cognitive Engineering
-- Product Planning and Development
-- Human-Computer Interaction
-- Data Visualization
-- Ideation and Prototyping
-- Introduction to ICT Engineering
+- Undergraduate
+  - Human Factors and Ergonomics
+  - Emotional and Cognitive Engineering
+  - Product Planning and Development
+  - Human-Computer Interaction
+  - Data Visualization
+  - Ideation and Prototyping
+  - Introduction to ICT Engineering
+- Graduate
+  - Healthcare System Design
+  - Human Data Measurement and Analysis
 
 ## Services
+- Board Member, Pohang YMCA, Mar. 2021 - Present
 - Board Member, Ergonomics Society of Korea, Jan. 2020 - Present
-- Reviewer, [Human Factors and Ergonomics in Manufacturing & Service Industries](https://www.onlinelibrary.wiley.com/journal/15206564), 2018 - Present
-- Reviewer, [Applied Ergonomics](https://www.journals.elsevier.com/applied-ergonomics), 2018 - Present
-- Reviewer, [Journal of the Ergonomics Society of Korea](http://www.jesk.or.kr/), 2018 - Present
-- Reviewer, [Journal of the Korean Society of Safety](http://www.kosos.or.kr/jkosos/), 2018 - Present
+- Reviewer, [Human Factors and Ergonomics in Manufacturing & Service Industries](https://www.onlinelibrary.wiley.com/journal/15206564)
+- Reviewer, [Applied Ergonomics](https://www.journals.elsevier.com/applied-ergonomics)
+- Reviewer, [Journal of the Ergonomics Society of Korea](http://www.jesk.or.kr/)
+- Reviewer, [Journal of the Korean Society of Safety](http://www.kosos.or.kr/jkosos/)
 
 ## Other links
 - Personal Pages
