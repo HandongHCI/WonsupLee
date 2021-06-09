@@ -3,6 +3,10 @@
 
 ## Featured Publications (selected)
 
+
+
+1.	**Lee W**, Jung D, Park S, Kim H, and You H (2021) Development of a virtual fit analysis method for an ergonomic design of pilot oxygen mask. *Applied Sciences, 11*(12), 5332. (DOI: [10.3390/app11125332](https://doi.org/10.3390/app11125332))<br><img src="img/publication/2021_VirtualFit.png" height="100">
+
 1.	**Lee W**, Jung H, and You H (2020) Development of a 3D template-registered image database of Korean heads for ergonomic product design. *Journal of the Ergonomics Society of Korea, 39*(5), 437-451. (DOI: [10.5143/JESK.2020.39.5.437](http://www.jesk.or.kr/archive/detail/211?is_paper=y))<br><img src="img/publication/2020_HeadTemplateRegistration.png" height="100">
 
 1. **Lee W**, Jung H, and You H (2020) Application of 3D human body template model for ergonomic product design. *Journal of the Ergonomics Society of Korea, 39*(3), 223-241. (DOI: [10.5143/JESK.2020.39.3.223](http://www.jesk.or.kr/archive/detail/192?is_paper=y))<br><img src="img/publication/2020_TemplateRegistration.png" height="100">
