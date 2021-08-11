@@ -3,9 +3,9 @@
 
 ## Featured Publications in DHM and 3D Anthropometry (selected)
 
-1.	Cui, X., Jung, H., Lee, W., Kim, S.H., Yun, R.-Y., Kim, S.-Y., You, H., and Huh, S. (in press). Ergonomics and personalization of noninvasive ventilation masks: A literature review. *Respiratory Care*.
+1.	Cui X, Jung H, **Lee W**, Kim SH, Yun RY, Kim SY, You H, and Huh S (in press). Ergonomics and personalization of noninvasive ventilation masks: A literature review. *Respiratory Care*.
 
-1.	Goto, L., Lee, W., Molenbroek, J.F.M., and Goossens, R.H.M. (2021). The variation in 3D face shapes of Dutch children for design applications. *Applied Sciences, 11*(15), 6843. (DIO: [10.3390/app11156843](https://doi.org/10.3390/app11156843))<br><img src="img/publication/2021_facial_variation.jpg" height="100">
+1.	Goto L, **Lee W**, Toon H, Molenbroek JFM, and Goossens RHM (2021). The variation in 3D face shapes of Dutch children for design applications. *Applied Sciences, 11*(15), 6843. (DIO: [10.3390/app11156843](https://doi.org/10.3390/app11156843))<br><img src="img/publication/2021_facial_variation.jpg" height="100">
 
 1.	**Lee W**, Jung D, Park S, Kim H, and You H (2021) Development of a virtual fit analysis method for an ergonomic design of pilot oxygen mask. *Applied Sciences, 11*(12), 5332. (DOI: [10.3390/app11125332](https://doi.org/10.3390/app11125332))<br><img src="img/publication/2021_VirtualFit.png" height="100">
 
