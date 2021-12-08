@@ -1,13 +1,13 @@
 [Home](README.md) | [Research](research.md) | [Publication](publication.md) | [Facility](facility.md) | [Teaching](https://handonghci.github.io/Courses/){:target="_blank" rel="noopener"}
 
 
-## Onging Research Topics
+## Ongoing Research Topics
 
-1. Development of a product design technology based on finite element analysis
+1. Development of a  technology for product design optimization based on finite element analysis
 1. Development of an AI-assisted digital human model based on 3D body scan database
 1. Development of a web-based anthropometric analysis system
 1. Development of a smart learning system
-1. Applications of drones
+1. Other service UX studies
 
 
 ## Earlier Research Projects
@@ -37,7 +37,7 @@
 ![](img/research/HomeAppliances.png)
 
 ### Wearable/Protective products based on 3D scans
-- Funding sources: Samsung Electronics, Bose Corporation, GP Acoustics, Decathlon S.A. Logitech International S.A., National Research Foundation of Korea
+- Funding sources: A couple of companies including Samsung Electronics, National Research Foundation of Korea
 - Summary: Since I’ve started my professional career in 3D scanning and digital human modeling areas, I have coordinated or participated in more than 10 research projects on wearable product design until now. The target wearable projects of my research include oxygen mask, dust-proof mask, medical respirator, hip protective pants, earphone, VR headsets, et cetera. Hundreds or thousands of 3D scan database including CAESAR full body (n = 4400), full body of Korean elderly woman (n = 270), Korean pilot’s face (n = 350), Dutch children face (n = 300), ear (n = 850) have been used in my research. Not by just using the characteristics of a few 3D body shapes in design process, I have applied engineering methods such as virtual fitting, template model registration, design optimization, finite element analysis, and machine learning technologies on numerous 3D scan database in order to find the best shape(s) and size(s) for target people. Most of my recent research are related to this topic.
 ![](img/research/DHM.png)
 
@@ -47,6 +47,6 @@
 ![](img/research/vehicle.png)
 
 ### Software programs for anthropometric analysis
-- Funding sources: Samsung Electronics, Logitech International S.A., Delft University of Technology, National Research Foundation of Korea
+- Funding sources: Samsung Electronics, Delft University of Technology, National Research Foundation of Korea
 - Summary: I have participated in software development projects, which are for designers, industry practitioners, and/or university students. The core purpose of software development in my research is to provide a good usability to users, so that they can easily access to and analyze a numerous size of database (e.g., anthropometric database of 4400 people) for their research and design. Out of more than 10 custom software programs I have developed, the following figure is illustrating a layout, interface, and features of some of the anthropometric analysis tools. The anthropometric analysis tools basically consist of the following functions: (1) selection of target sample by choosing ethnicity, gender, and age characteristics, (2) selection of anthropometric dimension, (3) selection of analysis methods, (4) visualization of outputs such as summary statistics, anthropometric information, sizing categories, 3D scatter plot of anthropometric landmarks, and representative shapes, and (5) reporting the analysis outcomes. Majorly, Matlab language was used for algorithm development as well as user interface design. A user-centered design knowledge and a survey of user’s needs have been always applied in user interface design. Some of developed software were delivered to each of the funding company and some will be commercialized sooner or later.
 ![](img/research/SW.png)
