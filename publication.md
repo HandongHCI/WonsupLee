@@ -1,9 +1,13 @@
 [Home](README.md) | [Research](research.md) | [Publication](publication.md) | [Facility](facility.md) | [Teaching](https://handonghci.github.io/Courses/){:target="_blank" rel="noopener"}
 
 
-## Featured Publications in DHM and 3D Anthropometry (selected)
+## Featured Publications in 3D Anthropometry and DHM (selected)
 
-1.	Cui X, Jung H, **Lee W**, Kim SH, Yun RY, Kim SY, You H, and Huh S (in press). Ergonomics and personalization of noninvasive ventilation masks: A literature review. *Respiratory Care*.
+1.	Kwon Y-J, Kim J-G, **Lee W** (2022). A framework for effective face-mask contact modeling based on finite element analysis for custom design of a facial mask. PLoS ONE, 17(7), e0270092. (DIO: [10.1371/journal.pone.0270092](https://doi.org/10.1371/journal.pone.0270092))<br><img src="img/publication/2022_FEA.jpg" height="100">
+
+1. Rodríguez AA, Escanilla DE, Caroca LA, Albornoz CE, Marshall PA, Molenbroek JFM, **Lee W**, Viviani C, and Castellucci HI (2022). Head and facial dimensions of Chilean workers for design purposes and the differences with other populations. *Work, 71*(4), 1073-1085. (DIO: [10.3233/WOR-205063](https://doi.org/10.3233/wor-205063))
+
+1.	Cui X, Jung H, **Lee W**, Kim SH, Yun RY, Kim SY, You H, and Huh S (2022). Ergonomics and personalization of noninvasive ventilation masks: A literature review. *Respiratory Care, 61*(1), 87-101. (DIO: [10.4187/respcare.08959](https://doi.org/10.4187/respcare.08959))<br><img src="img/publication/2022_res_care.jpg" height="100">
 
 1.	Goto L, **Lee W**, Toon H, Molenbroek JFM, and Goossens RHM (2021). The variation in 3D face shapes of Dutch children for design applications. *Applied Sciences, 11*(15), 6843. (DIO: [10.3390/app11156843](https://doi.org/10.3390/app11156843))<br><img src="img/publication/2021_facial_variation.jpg" height="100">
 
