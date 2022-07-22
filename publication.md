@@ -3,7 +3,7 @@
 
 ## Featured Publications in 3D Anthropometry and DHM (selected)
 
-1.	Kwon Y-J, Kim J-G, **Lee W** (2022). A framework for effective face-mask contact modeling based on finite element analysis for custom design of a facial mask. PLoS ONE, 17(7), e0270092. (DIO: [10.1371/journal.pone.0270092](https://doi.org/10.1371/journal.pone.0270092))<br><img src="img/publication/2022_FEA.jpg" height="100">
+1.	Kwon Y-J, Kim J-G, **Lee W** (2022). A framework for effective face-mask contact modeling based on finite element analysis for custom design of a facial mask. *PLoS ONE, 17*(7), e0270092. (DIO: [10.1371/journal.pone.0270092](https://doi.org/10.1371/journal.pone.0270092))<br><img src="img/publication/2022_FEA.jpg" height="100">
 
 1. Rodríguez AA, Escanilla DE, Caroca LA, Albornoz CE, Marshall PA, Molenbroek JFM, **Lee W**, Viviani C, and Castellucci HI (2022). Head and facial dimensions of Chilean workers for design purposes and the differences with other populations. *Work, 71*(4), 1073-1085. (DIO: [10.3233/WOR-205063](https://doi.org/10.3233/wor-205063))
 
