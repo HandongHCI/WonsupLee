@@ -3,6 +3,12 @@
 
 ## Featured Publications in 3D Anthropometry and DHM (selected)
 
+1. Jung et al. (in press). Postural facial deformation of patients with bulbar amyotrophic lateral sclerosis and virtual fit of non-invasive ventilation mask. *Respiratory Care*.
+
+1.	**Lee, W.** and You, H. (2022). A method for the generation of shape-based percentile representative human models for ergonomic product design. *Journal of the Ergonomics Society of Korea, 41*(6), 1-13. (DIO: [10.5143/JESK.2022.41.6.1]())<br><img src="img/publication/2022_shape_based_RHM.png" height="100">
+
+1.	**Lee W**, Lee B, Yang X, You H (2022). A method for generation of a sizing system and representative models for a facial mask design. *Applied Sciences, 12*(23), 12387. (DIO: [10.3390/app122312387](https://doi.org/10.3390/app122312387))<br><img src="img/publication/2022_SizingSystem.png" height="100">
+
 1.	Kwon Y-J, Kim J-G, **Lee W** (2022). A framework for effective face-mask contact modeling based on finite element analysis for custom design of a facial mask. *PLoS ONE, 17*(7), e0270092. (DIO: [10.1371/journal.pone.0270092](https://doi.org/10.1371/journal.pone.0270092))<br><img src="img/publication/2022_FEA.jpg" height="100">
 
 1. Rodríguez AA, Escanilla DE, Caroca LA, Albornoz CE, Marshall PA, Molenbroek JFM, **Lee W**, Viviani C, and Castellucci HI (2022). Head and facial dimensions of Chilean workers for design purposes and the differences with other populations. *Work, 71*(4), 1073-1085. (DIO: [10.3233/WOR-205063](https://doi.org/10.3233/wor-205063))
