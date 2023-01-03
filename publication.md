@@ -5,17 +5,17 @@
 
 1. Jung et al. (in press). Postural facial deformation of patients with bulbar amyotrophic lateral sclerosis and virtual fit of non-invasive ventilation mask. *Respiratory Care*.
 
-1.	**Lee, W.** and You, H. (2022). A method for the generation of shape-based percentile representative human models for ergonomic product design. *Journal of the Ergonomics Society of Korea, 41*(6), 1-13. (DIO: [10.5143/JESK.2022.41.6.1]())<br><img src="img/publication/2022_shape_based_RHM.png" height="100">
+1.	**Lee, W.** and You, H. (2022). A method for the generation of shape-based percentile representative human models for ergonomic product design. *Journal of the Ergonomics Society of Korea, 41*(6), 547-559. (DOI: [10.5143/JESK.2022.41.6.547]())<br><img src="img/publication/2022_shape_based_RHM.png" height="100">
 
-1.	**Lee W**, Lee B, Yang X, You H (2022). A method for generation of a sizing system and representative models for a facial mask design. *Applied Sciences, 12*(23), 12387. (DIO: [10.3390/app122312387](https://doi.org/10.3390/app122312387))<br><img src="img/publication/2022_SizingSystem.png" height="100">
+1.	**Lee W**, Lee B, Yang X, You H (2022). A method for generation of a sizing system and representative models for a facial mask design. *Applied Sciences, 12*(23), 12387. (DOI: [10.3390/app122312387](https://doi.org/10.3390/app122312387))<br><img src="img/publication/2022_SizingSystem.png" height="100">
 
-1.	Kwon Y-J, Kim J-G, **Lee W** (2022). A framework for effective face-mask contact modeling based on finite element analysis for custom design of a facial mask. *PLoS ONE, 17*(7), e0270092. (DIO: [10.1371/journal.pone.0270092](https://doi.org/10.1371/journal.pone.0270092))<br><img src="img/publication/2022_FEA.jpg" height="100">
+1.	Kwon Y-J, Kim J-G, **Lee W** (2022). A framework for effective face-mask contact modeling based on finite element analysis for custom design of a facial mask. *PLoS ONE, 17*(7), e0270092. (DOI: [10.1371/journal.pone.0270092](https://doi.org/10.1371/journal.pone.0270092))<br><img src="img/publication/2022_FEA.jpg" height="100">
 
-1. Rodríguez AA, Escanilla DE, Caroca LA, Albornoz CE, Marshall PA, Molenbroek JFM, **Lee W**, Viviani C, and Castellucci HI (2022). Head and facial dimensions of Chilean workers for design purposes and the differences with other populations. *Work, 71*(4), 1073-1085. (DIO: [10.3233/WOR-205063](https://doi.org/10.3233/wor-205063))
+1. Rodríguez AA, Escanilla DE, Caroca LA, Albornoz CE, Marshall PA, Molenbroek JFM, **Lee W**, Viviani C, and Castellucci HI (2022). Head and facial dimensions of Chilean workers for design purposes and the differences with other populations. *Work, 71*(4), 1073-1085. (DOI: [10.3233/WOR-205063](https://doi.org/10.3233/wor-205063))
 
-1.	Cui X, Jung H, **Lee W**, Kim SH, Yun RY, Kim SY, You H, and Huh S (2022). Ergonomics and personalization of noninvasive ventilation masks: A literature review. *Respiratory Care, 61*(1), 87-101. (DIO: [10.4187/respcare.08959](https://doi.org/10.4187/respcare.08959))<br><img src="img/publication/2022_res_care.jpg" height="100">
+1.	Cui X, Jung H, **Lee W**, Kim SH, Yun RY, Kim SY, You H, and Huh S (2022). Ergonomics and personalization of noninvasive ventilation masks: A literature review. *Respiratory Care, 61*(1), 87-101. (DOI: [10.4187/respcare.08959](https://doi.org/10.4187/respcare.08959))<br><img src="img/publication/2022_res_care.jpg" height="100">
 
-1.	Goto L, **Lee W**, Toon H, Molenbroek JFM, and Goossens RHM (2021). The variation in 3D face shapes of Dutch children for design applications. *Applied Sciences, 11*(15), 6843. (DIO: [10.3390/app11156843](https://doi.org/10.3390/app11156843))<br><img src="img/publication/2021_facial_variation.jpg" height="100">
+1.	Goto L, **Lee W**, Toon H, Molenbroek JFM, and Goossens RHM (2021). The variation in 3D face shapes of Dutch children for design applications. *Applied Sciences, 11*(15), 6843. (DOI: [10.3390/app11156843](https://doi.org/10.3390/app11156843))<br><img src="img/publication/2021_facial_variation.jpg" height="100">
 
 1.	**Lee W**, Jung D, Park S, Kim H, and You H (2021) Development of a virtual fit analysis method for an ergonomic design of pilot oxygen mask. *Applied Sciences, 11*(12), 5332. (DOI: [10.3390/app11125332](https://doi.org/10.3390/app11125332))<br><img src="img/publication/2021_VirtualFit.png" height="100">
 
