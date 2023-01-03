@@ -5,7 +5,7 @@
 
 1. Jung et al. (in press). Postural facial deformation of patients with bulbar amyotrophic lateral sclerosis and virtual fit of non-invasive ventilation mask. *Respiratory Care*.
 
-1.	**Lee, W.** and You, H. (2022). A method for the generation of shape-based percentile representative human models for ergonomic product design. *Journal of the Ergonomics Society of Korea, 41*(6), 547-559. (DOI: [10.5143/JESK.2022.41.6.547]())<br><img src="img/publication/2022_shape_based_RHM.png" height="100">
+1.	**Lee, W.** and You, H. (2022). A method for the generation of shape-based percentile representative human models for ergonomic product design. *Journal of the Ergonomics Society of Korea, 41*(6), 547-559. (DOI: [10.5143/JESK.2022.41.6.547](https://www.jesk.or.kr/archive/detail/309?is_paper=y))<br><img src="img/publication/2022_shape_based_RHM.png" height="100">
 
 1.	**Lee W**, Lee B, Yang X, You H (2022). A method for generation of a sizing system and representative models for a facial mask design. *Applied Sciences, 12*(23), 12387. (DOI: [10.3390/app122312387](https://doi.org/10.3390/app122312387))<br><img src="img/publication/2022_SizingSystem.png" height="100">
 
