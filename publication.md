@@ -3,10 +3,9 @@
 
 ## Featured Publications in 3D Anthropometry and DHM (selected)
 
-1. Jung H, **Lee W**, Mun S, and You H (2023). Deformation of palmar hand measurements in power grip by wrist ulnar/radial deviation. *Applied Ergonomics*, 114,
-104157. (DOI: [10.1016/j.apergo.2023.104157](https://doi.org/10.1016/j.apergo.2023.104157))<br><img src="img/publication/2023_handgrip.jpeg" height="100">
+1. Jung H, **Lee W**, Mun S, and You H (2023). Deformation of palmar hand measurements in power grip by wrist ulnar/radial deviation. *Applied Ergonomics*, 114, 104157. (DOI: [10.1016/j.apergo.2023.104157](https://doi.org/10.1016/j.apergo.2023.104157))<br><img src="img/publication/2023_handgrip.jpeg" height="100">
 
-1. Jung H, Kim S-Y, Cui X, **Lee W**, Kwon D, Seo ZW, Ko H-Y, Kim SH, Yun R-Y, You H, and Huh S (2023). Postural facial deformation of patients with bulbar amyotrophic lateral sclerosis and virtual fit of non-invasive ventilation mask. *Respiratory Care*, *68*(2), 265-269. (DOI: [10.4187/respcare.10055](https://doi.org/10.4187/respcare.10055))<br><img src="img/publication/2023_vantilation_mask.png" height="100">
+1. Jung H, Kim S-Y, Cui X, **Lee W**, Kwon D, Seo ZW, Ko H-Y, Kim SH, Yun R-Y, You H, and Huh S (2023). Postural facial deformation of patients with bulbar amyotrophic lateral sclerosis and virtual fit of non-invasive ventilation mask. *Respiratory Care, 68*(2), 265-269. (DOI: [10.4187/respcare.10055](https://doi.org/10.4187/respcare.10055))<br><img src="img/publication/2023_vantilation_mask.png" height="100">
 
 1. Yun R, Jung H, Cui X, Huh S, **Lee W**, You H, and Kim, S-Y (2023). Quantitative analysis of the head tilt using three-dimensional temporal scan in children with torticollis. *Children, 10*, 225. (DOI: [10.3390/children10020225](https://doi.org/10.3390/children10020225))<br><img src="img/publication/2023_children.png" height="100">
 
