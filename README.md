@@ -9,7 +9,9 @@ With my interdisciplinary perspectives in design, engineering, technologies, and
 Among the experiences mentioned above, the primary research area that I've most actively worked for the last decade is digital human modeling based on using 3D/4D body scans and engineering design methods for human-friendly products.
 
 ## Education & Professional Career
-- Assistant Professor, School of Global Entrepreneurship and Information Communication Technology, Handong Global University, South Korea, Mar 2018 - present
+- CEO, N 8 10, LLC., South Korea, Apr 2024 - present
+- (entrepreneurial leave) Associate Professor, School of Global Entrepreneurship and Information Communication Technology, Handong Global University, South Korea, Mar 2024 - present
+- Assistant Professor, School of Global Entrepreneurship and Information Communication Technology, Handong Global University, South Korea, Mar 2018 - Feb 2024
 - Owner, Humanopia, the Netherlands, Jan 2017 - Feb 2018
 - Post-doctoral researcher, Industrial Design Engineering, Delft University of Technology, the Netherlands, Jan 2015 - Feb 2018
 - Post-doctoral researcher, Industrial Engineering, Pohang University of Science and Technology, South Korea, Sept 2013 - Dec 2014
@@ -46,7 +48,7 @@ Among the experiences mentioned above, the primary research area that I've most 
   - Human Data Measurement and Analysis
 
 ## Services
-- Board Member, Pohang YMCA, Mar. 2021 - Present
+- Board Member, Pohang YMCA, Mar. 2021 - 2023
 - Board Member, Ergonomics Society of Korea, Jan. 2020 - Present
 - Reviewer, [Human Factors and Ergonomics in Manufacturing & Service Industries](https://www.onlinelibrary.wiley.com/journal/15206564)
 - Reviewer, [Applied Ergonomics](https://www.journals.elsevier.com/applied-ergonomics)
