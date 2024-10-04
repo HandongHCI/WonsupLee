@@ -1,25 +1,29 @@
-[Home](README.md) | [Research](research.md) | [Publication](publication.md) | [Facility](facility.md) | [Teaching](https://handonghci.github.io/Courses/){:target="_blank" rel="noopener"}
+[Home](README.md) | [Research](research.md) | [Publication](publication.md)
 
 
 ## Featured Publications in 3D Anthropometry and DHM (selected)
 
-1. Jung H, **Lee W**, Mun S, and You H (2023). Deformation of palmar hand measurements in power grip by wrist ulnar/radial deviation. *Applied Ergonomics*, 114, 104157. (DOI: [10.1016/j.apergo.2023.104157](https://doi.org/10.1016/j.apergo.2023.104157))<br><img src="img/publication/2023_handgrip.jpeg" height="100">
+1. **Lee W**, Jung H, You H (2024) Applicability of parameterized digital humans in anthropometric and ergonomic product design studies. In Proceedings of the 22nd Triennial Congress of the International Ergonomics Association (IEA). (Jeju, South Korea, August 25 – 29, 2024)
 
-1. Jung H, Kim S-Y, Cui X, **Lee W**, Kwon D, Seo ZW, Ko H-Y, Kim SH, Yun R-Y, You H, and Huh S (2023). Postural facial deformation of patients with bulbar amyotrophic lateral sclerosis and virtual fit of non-invasive ventilation mask. *Respiratory Care, 68*(2), 265-269. (DOI: [10.4187/respcare.10055](https://doi.org/10.4187/respcare.10055))<br><img src="img/publication/2023_vantilation_mask.png" height="100">
+1. Cui X, Jung H, Park J, Yu C, **Lee W**, Lee Y, You H (2024) Correlation analysis of ear-earbud interface geometry and wearing fit for development of a virtual fit evaluation system. In Proceedings of the 22nd Triennial Congress of the International Ergonomics Association (IEA). (Jeju, South Korea, August 25 – 29, 2024)
 
-1. Yun R, Jung H, Cui X, Huh S, **Lee W**, You H, and Kim, S-Y (2023). Quantitative analysis of the head tilt using three-dimensional temporal scan in children with torticollis. *Children, 10*, 225. (DOI: [10.3390/children10020225](https://doi.org/10.3390/children10020225))<br><img src="img/publication/2023_children.png" height="100">
+1. Jung H, **Lee W**, Mun S, and You H (2024) Deformation of palmar hand measurements in power grip by wrist ulnar/radial deviation. *Applied Ergonomics*, 114, 104157. (DOI: [10.1016/j.apergo.2023.104157](https://doi.org/10.1016/j.apergo.2023.104157))<br><img src="img/publication/2023_handgrip.jpeg" height="100">
 
-1.	**Lee W** and You H (2022). A method for the generation of shape-based percentile representative human models for ergonomic product design. *Journal of the Ergonomics Society of Korea, 41*(6), 547-559. (DOI: [10.5143/JESK.2022.41.6.547](https://www.jesk.or.kr/archive/detail/309?is_paper=y))<br><img src="img/publication/2022_shape_based_RHM.png" height="100">
+1. Jung H, Kim S-Y, Cui X, **Lee W**, Kwon D, Seo ZW, Ko H-Y, Kim SH, Yun R-Y, You H, and Huh S (2023) Postural facial deformation of patients with bulbar amyotrophic lateral sclerosis and virtual fit of non-invasive ventilation mask. *Respiratory Care, 68*(2), 265-269. (DOI: [10.4187/respcare.10055](https://doi.org/10.4187/respcare.10055))<br><img src="img/publication/2023_vantilation_mask.png" height="100">
 
-1.	**Lee W**, Lee B, Yang X, You H (2022). A method for generation of a sizing system and representative models for a facial mask design. *Applied Sciences, 12*(23), 12387. (DOI: [10.3390/app122312387](https://doi.org/10.3390/app122312387))<br><img src="img/publication/2022_SizingSystem.png" height="100">
+1. Yun R, Jung H, Cui X, Huh S, **Lee W**, You H, and Kim, S-Y (2023) Quantitative analysis of the head tilt using three-dimensional temporal scan in children with torticollis. *Children, 10*, 225. (DOI: [10.3390/children10020225](https://doi.org/10.3390/children10020225))<br><img src="img/publication/2023_children.png" height="100">
 
-1.	Kwon Y-J, Kim J-G, **Lee W** (2022). A framework for effective face-mask contact modeling based on finite element analysis for custom design of a facial mask. *PLoS ONE, 17*(7), e0270092. (DOI: [10.1371/journal.pone.0270092](https://doi.org/10.1371/journal.pone.0270092))<br><img src="img/publication/2022_FEA.jpg" height="100">
+1.	**Lee W** and You H (2022) A method for the generation of shape-based percentile representative human models for ergonomic product design. *Journal of the Ergonomics Society of Korea, 41*(6), 547-559. (DOI: [10.5143/JESK.2022.41.6.547](https://www.jesk.or.kr/archive/detail/309?is_paper=y))<br><img src="img/publication/2022_shape_based_RHM.png" height="100">
 
-1. Rodríguez AA, Escanilla DE, Caroca LA, Albornoz CE, Marshall PA, Molenbroek JFM, **Lee W**, Viviani C, and Castellucci HI (2022). Head and facial dimensions of Chilean workers for design purposes and the differences with other populations. *Work, 71*(4), 1073-1085. (DOI: [10.3233/WOR-205063](https://doi.org/10.3233/wor-205063))
+1.	**Lee W**, Lee B, Yang X, You H (2022) A method for generation of a sizing system and representative models for a facial mask design. *Applied Sciences, 12*(23), 12387. (DOI: [10.3390/app122312387](https://doi.org/10.3390/app122312387))<br><img src="img/publication/2022_SizingSystem.png" height="100">
 
-1.	Cui X, Jung H, **Lee W**, Kim SH, Yun RY, Kim SY, You H, and Huh S (2022). Ergonomics and personalization of noninvasive ventilation masks: A literature review. *Respiratory Care, 61*(1), 87-101. (DOI: [10.4187/respcare.08959](https://doi.org/10.4187/respcare.08959))<br><img src="img/publication/2022_res_care.jpg" height="100">
+1.	Kwon Y-J, Kim J-G, **Lee W** (2022) A framework for effective face-mask contact modeling based on finite element analysis for custom design of a facial mask. *PLoS ONE, 17*(7), e0270092. (DOI: [10.1371/journal.pone.0270092](https://doi.org/10.1371/journal.pone.0270092))<br><img src="img/publication/2022_FEA.jpg" height="100">
 
-1.	Goto L, **Lee W**, Toon H, Molenbroek JFM, and Goossens RHM (2021). The variation in 3D face shapes of Dutch children for design applications. *Applied Sciences, 11*(15), 6843. (DOI: [10.3390/app11156843](https://doi.org/10.3390/app11156843))<br><img src="img/publication/2021_facial_variation.jpg" height="100">
+1. Rodríguez AA, Escanilla DE, Caroca LA, Albornoz CE, Marshall PA, Molenbroek JFM, **Lee W**, Viviani C, and Castellucci HI (2022) Head and facial dimensions of Chilean workers for design purposes and the differences with other populations. *Work, 71*(4), 1073-1085. (DOI: [10.3233/WOR-205063](https://doi.org/10.3233/wor-205063))
+
+1.	Cui X, Jung H, **Lee W**, Kim SH, Yun RY, Kim SY, You H, and Huh S (2022) Ergonomics and personalization of noninvasive ventilation masks: A literature review. *Respiratory Care, 61*(1), 87-101. (DOI: [10.4187/respcare.08959](https://doi.org/10.4187/respcare.08959))<br><img src="img/publication/2022_res_care.jpg" height="100">
+
+1.	Goto L, **Lee W**, Toon H, Molenbroek JFM, and Goossens RHM (2021) The variation in 3D face shapes of Dutch children for design applications. *Applied Sciences, 11*(15), 6843. (DOI: [10.3390/app11156843](https://doi.org/10.3390/app11156843))<br><img src="img/publication/2021_facial_variation.jpg" height="100">
 
 1.	**Lee W**, Jung D, Park S, Kim H, and You H (2021) Development of a virtual fit analysis method for an ergonomic design of pilot oxygen mask. *Applied Sciences, 11*(12), 5332. (DOI: [10.3390/app11125332](https://doi.org/10.3390/app11125332))<br><img src="img/publication/2021_VirtualFit.png" height="100">
 

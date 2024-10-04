@@ -1,13 +1,11 @@
-[Home](README.md) | [Research](research.md) | [Publication](publication.md) | [Facility](facility.md) | [Teaching](https://handonghci.github.io/Courses/){:target="_blank" rel="noopener"}
+[Home](README.md) | [Research](research.md) | [Publication](publication.md)
 
 
-## Ongoing Research Topics
+## Major Research Topics in Comfo Labs
 
 1. Development of a  technology for product design optimization based on finite element analysis
 1. Development of an AI-assisted digital human model based on 3D body scan database
-1. Development of a web-based anthropometric analysis system
-1. Development of a smart learning system
-1. Other service UX studies
+1. Development of a web-based anthropometric analysis system (SIZE LAB)
 
 
 ## Earlier Research Projects

@@ -1,4 +1,4 @@
-[Home](README.md) | [Research](research.md) | [Publication](publication.md) | [Facility](facility.md) | [Teaching](https://handonghci.github.io/Courses/){:target="_blank" rel="noopener"}
+[Home](README.md) | [Research](research.md) | [Publication](publication.md)
 
 
 ## Facility for HCI and Ergonomics Research (including both personal and department's properties)

@@ -1,18 +1,19 @@
-[Home](README.md) | [Research](research.md) | [Publication](publication.md) | [Facility](facility.md) | [Teaching](https://handonghci.github.io/Courses/){:target="_blank" rel="noopener"}
+[Home](README.md) | [Research](research.md) | [Publication](publication.md)
 
 
 ## Short Bio
-I am currently working in ergonomics, human-computer interaction (HCI), ICT convergence, and innovative product/service development domains as an assistant professor in the School of Global Entrepreneurship and Information Communication Technology (GE&ICT) at Handong Global University (HGU) in Pohang, South Korea. I started my academic career in Industrial Design in 2002 at HGU, then studied in Industrial Engineering (specialized in Human Factors and Ergonomics) at Pohang University of Science and Technology (POSTECH). After I received my doctorate in 2013, I worked as post-doctoral research staff for a total of 4.5 years at POSTECH (1.5Y) and Industrial Design Engineering at the Delft University of Technology in the Netherlands (3Y).
+I am currently the CEO of Comfo Labs, Inc. Previously, I served as an associate professor in the School of Global Entrepreneurship and Information Communication Technology (GE&ICT) at Handong Global University (HGU) in Pohang, South Korea, focusing on ergonomics, human-computer interaction (HCI), ICT convergence, and innovative product/service development. My academic journey began with a Bachelor’s degree in Industrial Design at HGU in 2002, followed by further studies in Industrial Engineering with a specialization in Human Factors and Ergonomics at Pohang University of Science and Technology (POSTECH). After earning my doctorate in August 2013, I gained 4.5 years of post-doctoral research experience, working at POSTECH (1.5 years) and in the Department of Industrial Design Engineering at Delft University of Technology in the Netherlands (3 years).
 
-With my interdisciplinary perspectives in design, engineering, technologies, and business, my teaching covers broad topics including new product/service development, business startup, user-centered design, UI/UX design, HCI, biomechanics, digital ergonomics, medical/healthcare engineering, and software development. Over the years, through my active participation in research and education works, I've gained academic achievements including 30+ peer-reviewed journal papers, 80+ conference proceedings, 6 patents, 10+ research grants as a PI, 3 academic awards, and so on.
+My interdisciplinary expertise spans design, engineering, technology, and business. I have taught a wide range of subjects, including new product/service development, business startups, user-centered design, UI/UX design, HCI, biomechanics, digital ergonomics, medical/healthcare engineering, and software development.
 
-Among the experiences mentioned above, the primary research area that I've most actively worked for the last decade is digital human modeling based on using 3D/4D body scans and engineering design methods for human-friendly products.
+Over the past decade, my primary research focus has been digital human modeling using 3D/4D body scans and engineering design methods for developing human-friendly products. Building on 15 years of research and expertise, I founded Comfo Labs, Inc. in April 2024.
+
 
 ## Education & Professional Career
 - CEO, N 8 10, LLC., South Korea, Apr 2024 - present
-- (entrepreneurial leave) Associate Professor, School of Global Entrepreneurship and Information Communication Technology, Handong Global University, South Korea, Mar 2024 - present
+- Associate Professor, School of Global Entrepreneurship and Information Communication Technology, Handong Global University, South Korea, Mar 2024 - August 2024
 - Assistant Professor, School of Global Entrepreneurship and Information Communication Technology, Handong Global University, South Korea, Mar 2018 - Feb 2024
-- Owner, Humanopia, the Netherlands, Jan 2017 - Feb 2018
+- Owner/Freelancer, Humanopia, the Netherlands, Jan 2017 - Feb 2018
 - Post-doctoral researcher, Industrial Design Engineering, Delft University of Technology, the Netherlands, Jan 2015 - Feb 2018
 - Post-doctoral researcher, Industrial Engineering, Pohang University of Science and Technology, South Korea, Sept 2013 - Dec 2014
 - Ph.D., Industrial Engineering, Pohang University of Science and Technology, South Korea, Aug 2013
@@ -48,7 +49,7 @@ Among the experiences mentioned above, the primary research area that I've most 
   - Human Data Measurement and Analysis
 
 ## Services
-- Board Member, Pohang YMCA, Mar. 2021 - 2023
+- Board Member, YMCA Pohang, Mar. 2021 - 2023
 - Board Member, Ergonomics Society of Korea, Jan. 2020 - Present
 - Reviewer, [Human Factors and Ergonomics in Manufacturing & Service Industries](https://www.onlinelibrary.wiley.com/journal/15206564)
 - Reviewer, [Applied Ergonomics](https://www.journals.elsevier.com/applied-ergonomics)
