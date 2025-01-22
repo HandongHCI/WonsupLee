@@ -5,7 +5,7 @@
 
 1. Development of a  technology for product design optimization based on finite element analysis
 1. Development of an AI-assisted digital human model based on 3D body scan database
-1. Development of a web-based anthropometric analysis system (SIZE LAB)
+1. Development of a web-based digital human modeling and design-support system (SIZE LAB)
 
 
 ## Earlier Research Projects

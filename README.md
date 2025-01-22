@@ -10,7 +10,7 @@ Over the past decade, my primary research focus has been digital human modeling 
 
 
 ## Education & Professional Career
-- CEO, N 8 10, LLC., South Korea, Apr 2024 - present
+- CEO/Founder, Comfo Labs, Inc., South Korea, Apr 2024 - present
 - Associate Professor, School of Global Entrepreneurship and Information Communication Technology, Handong Global University, South Korea, Mar 2024 - August 2024
 - Assistant Professor, School of Global Entrepreneurship and Information Communication Technology, Handong Global University, South Korea, Mar 2018 - Feb 2024
 - Owner/Freelancer, Humanopia, the Netherlands, Jan 2017 - Feb 2018
@@ -49,20 +49,14 @@ Over the past decade, my primary research focus has been digital human modeling 
   - Human Data Measurement and Analysis
 
 ## Services
+- Member, ISO/TC 159, 2019 - Present
 - Board Member, YMCA Pohang, Mar. 2021 - 2023
 - Board Member, Ergonomics Society of Korea, Jan. 2020 - Present
-- Reviewer, [Human Factors and Ergonomics in Manufacturing & Service Industries](https://www.onlinelibrary.wiley.com/journal/15206564)
-- Reviewer, [Applied Ergonomics](https://www.journals.elsevier.com/applied-ergonomics)
-- Reviewer, [Journal of the Ergonomics Society of Korea](http://www.jesk.or.kr/)
-- Reviewer, [Journal of the Korean Society of Safety](http://www.kosos.or.kr/jkosos/)
+- Reviewer, Ergonomics Journals (Ergonomics, Applied Ergonomics, International Journal of Industrial Ergonomics, Human Factors and Ergonomics in Manufacturing & Service Industries, Journal of the Ergonomics Society of Korea, Journal of the Korean Society of Safety)
 
 ## Other links
 - Personal Pages
   - LinkedIn: [https://www.linkedin.com/in/wonsuplee/](https://www.linkedin.com/in/wonsuplee/)
-- Educational Pages
-  - GitHub: [https://github.com/HandongHCI](https://github.com/HandongHCI)
-  - GitHub Page: [https://HandongHCI.github.io](https://github.com/HandongHCI)
-  - Facebook Page: [http://facebook.com/HandongHCI](http://facebook.com/HandongHCI)
 - Publication Records
   - ORCID: [https://orcid.org/0000-0002-8094-1251](https://orcid.org/0000-0002-8094-1251)
   - Google Scholar: [https://scholar.google.co.kr/citations?user=KAVL3vQAAAAJ&hl=en](https://scholar.google.co.kr/citations?user=KAVL3vQAAAAJ&hl=en)
