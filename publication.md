@@ -3,13 +3,9 @@
 
 ## Featured Publications in 3D Anthropometry and DHM (selected)
 
-1. Park S, Rho, J, Tak, Y, **Lee W**, Park C (2025) An ergonomic design and evaluation of a chair with flexible seat pan for maintenance of correct sitting posture. Applied Sciences, 15(23), 12714. (DOI: [10.3390/app152312714](https://doi.org/10.3390/app152312714))<br><img src="img/publication/seat.jpg" height="100">
+1. **Lee W**, Jung H, You H (2024) Applicability of parameterized digital humans in anthropometric and ergonomic product design studies. In Proceedings of the 22nd Triennial Congress of the International Ergonomics Association (IEA). (Jeju, South Korea, August 25 – 29, 2024)
 
-1. Pau G, Spitzhirn M, Alemany S, Harih G, Mortazavy Beni HR, Rasmussen J, **Lee W** (2024) Digital transformation in ergonomics through digital human modelling to the digital twin. Proceedings of the 22nd Triennial Congress of the International Ergonomics Association (IEA). (Jeju, South Korea, August 25 – 29, 2024) (DOI: [10.1007/978-981-96-8908-8_31](https://doi.org/10.1007/978-981-96-8908-8_31))
-
-1. **Lee W**, Jung H, You H (2024) Applicability of parameterized digital humans in anthropometric and ergonomic product design studies. Proceedings of the 22nd Triennial Congress of the International Ergonomics Association (IEA). (Jeju, South Korea, August 25 – 29, 2024)
-
-1. Cui X, Jung H, Park J, Yu C, **Lee W**, Lee Y, You H (2024) Correlation analysis of ear-earbud interface geometry and wearing fit for development of a virtual fit evaluation system. Proceedings of the 22nd Triennial Congress of the International Ergonomics Association (IEA). (Jeju, South Korea, August 25 – 29, 2024)
+1. Cui X, Jung H, Park J, Yu C, **Lee W**, Lee Y, You H (2024) Correlation analysis of ear-earbud interface geometry and wearing fit for development of a virtual fit evaluation system. In Proceedings of the 22nd Triennial Congress of the International Ergonomics Association (IEA). (Jeju, South Korea, August 25 – 29, 2024)
 
 1. Jung H, **Lee W**, Mun S, and You H (2024) Deformation of palmar hand measurements in power grip by wrist ulnar/radial deviation. *Applied Ergonomics*, 114, 104157. (DOI: [10.1016/j.apergo.2023.104157](https://doi.org/10.1016/j.apergo.2023.104157))<br><img src="img/publication/2023_handgrip.jpeg" height="100">
 
@@ -35,7 +31,7 @@
 
 1. **Lee W**, Jung H, and You H (2020) Application of 3D human body template model for ergonomic product design. *Journal of the Ergonomics Society of Korea, 39*(3), 223-241. (DOI: [10.5143/JESK.2020.39.3.223](http://www.jesk.or.kr/archive/detail/192?is_paper=y))<br><img src="img/publication/2020_TemplateRegistration.png" height="100">
 
-1.	**Lee W**, Kim JG, Molenbroek JFM, Goossens RHM, and You H (2019) Estimation of facial contact pressure based on finite element analysis. *Advances in Intelligent Systems and Computing, 975*, 657-667. Proceedings of the 10th International Conference on Applied Human Factors and Ergonomics (AHFE). (Washington, DC, USA, July 24 – 28, 2019) (DOI: [10.1007/978-3-030-20216-3_61](https://link.springer.com/chapter/10.1007/978-3-030-20216-3_61))<br><img src="img/publication/2019_FEA_01.png" height="100"><img src="img/publication/2019_FEA_02.png" height="100">
+1.	**Lee W**, Kim JG, Molenbroek JFM, Goossens RHM, and You H (2019) Estimation of facial contact pressure based on finite element analysis. *Advances in Intelligent Systems and Computing, 975*, 657-667. In Proceedings of the 10th International Conference on Applied Human Factors and Ergonomics (AHFE). (Washington, DC, USA, July 24 – 28, 2019) (DOI: [10.1007/978-3-030-20216-3_61](https://link.springer.com/chapter/10.1007/978-3-030-20216-3_61))<br><img src="img/publication/2019_FEA_01.png" height="100"><img src="img/publication/2019_FEA_02.png" height="100">
 
 1.	**Lee W**, Molenbroek JFM, Goto L, Jellema AH, Song Y, and Goossens RHM (2019) Application of 3D scanning in design education. In S Scataglini and G Paul (Eds.), *DHM and Posturography* (pp. 721-732) Cambridge, MA: Academic Press (imprint of Elsevier). (ISBN: 978-0-12-816713-7, DOI: [10.1016/B978-0-12-816713-7.00056-8](https://doi.org/10.1016/B978-0-12-816713-7.00056-8))<br><img src="img/publication/2019 DHM_Posturography.jpg" height="100">
 
